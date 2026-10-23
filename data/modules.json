@@ -1,0 +1,3229 @@
+{
+ "modules": [
+  {
+   "title": "Module 1 · Week 1",
+   "course": "PN Structure and Function of the Human Body · NRSG-10159",
+   "topics": "Overview · Structural Organization of the Human Body · Homeostasis · Anatomical Terminology",
+   "groups": [
+    {
+     "name": "Anatomy & Physiology",
+     "items": [
+      {
+       "name": "Anatomy",
+       "description": "the scientific study of the body's structures, involving observation, analysis, and dissection to understand physical attributes and relationships between body parts. From the Greek roots \"ana\" meaning \"to cut apart\" and \"tomia\" meaning \"to cut.\""
+      },
+      {
+       "name": "Gross Anatomy",
+       "description": "considers large structures that can be seen in the body without magnification."
+      },
+      {
+       "name": "Microscopic Anatomy",
+       "description": "includes cytology and histology, requiring microscopes for observation."
+      },
+      {
+       "name": "Cytology",
+       "description": "study of cells."
+      },
+      {
+       "name": "Histology",
+       "description": "study of tissues."
+      },
+      {
+       "name": "Human Physiology",
+       "description": "focuses on the functions of the body's structures, studying the chemistry and physics behind how these structures collaborate to sustain life functions. Emphasizes homeostasis. Specializations include neurophysiology, cardiovascular, digestive, endocrine."
+      }
+     ]
+    },
+    {
+     "name": "Application of Anatomy & Physiology to Nursing Practice",
+     "items": [
+      {
+       "name": "Assessment and Diagnosis",
+       "description": "used to evaluate patient symptoms, identify the underlying cause of illness, and develop accurate nursing diagnoses."
+      },
+      {
+       "name": "Treatment Selection and Implementation",
+       "description": "understanding how medications and treatments affect the body allows nurses to choose the most appropriate interventions and monitor for side effects."
+      },
+      {
+       "name": "Patient Education",
+       "description": "nurses can explain the rationale for treatments and interventions to patients and families, promoting understanding and adherence to treatment plans."
+      },
+      {
+       "name": "Patient Safety",
+       "description": "helps nurses recognize potential complications and intervene effectively."
+      },
+      {
+       "name": "Increased Confidence",
+       "description": "to make informed decisions and provide expert care."
+      }
+     ]
+    },
+    {
+     "name": "Levels of Organization (6 Levels, Increasing in Complexity)",
+     "items": [
+      {
+       "name": "Chemical Level",
+       "description": "atoms and molecules form the foundation."
+      },
+      {
+       "name": "Cellular Level",
+       "description": "cells, the basic units of life, perform specific functions & perform communication."
+      },
+      {
+       "name": "Tissue Level",
+       "description": "groups of similar cells with a shared function, such as muscle tissue or nervous tissue."
+      },
+      {
+       "name": "Organ Level",
+       "description": "structures made up of different tissues working together, like the heart or brain."
+      },
+      {
+       "name": "Organ System Level",
+       "description": "groups of organs that cooperate to perform a complex function, such as the digestive system or the cardiovascular system."
+      },
+      {
+       "name": "Organismal Level",
+       "description": "the entire living individual, representing the highest level of organization."
+      }
+     ]
+    },
+    {
+     "name": "11 Organ Systems",
+     "items": [
+      {
+       "name": "Integumentary System (Skin)",
+       "description": "encloses internal body structures; site of many sensory receptors. Organs: hair, skin, nails"
+      },
+      {
+       "name": "Skeletal System (Bone)",
+       "description": "supports the body; enables movement (with muscular system). Organs: cartilage, bones, joints"
+      },
+      {
+       "name": "Muscular System (Muscle)",
+       "description": "enables movement (with skeletal system); helps maintain body temperature. Organs: skeletal muscles, tendons"
+      },
+      {
+       "name": "Nervous System (Nerves)",
+       "description": "detects and processes sensory information; activates bodily responses. Organs: brain, spinal cord, peripheral nerves"
+      },
+      {
+       "name": "Cardiovascular System (Heart)",
+       "description": "delivers oxygen and nutrients to tissues; equalizes temperature in the body. Organs: heart, blood vessels"
+      },
+      {
+       "name": "Endocrine System (Hormones)",
+       "description": "secretes hormones; regulates bodily processes. Organs: pituitary gland, thyroid gland, pancreas, adrenal glands, testes, ovaries"
+      },
+      {
+       "name": "Digestive System (Stomach/Colon)",
+       "description": "processes food for use by the body; removes wastes from undigested food. Organs: stomach, liver, gallbladder, large intestine, small intestine"
+      },
+      {
+       "name": "Urinary System (Kidneys)",
+       "description": "controls water balance in the body; removes wastes from blood and excretes them. Organs: kidneys, urinary bladder"
+      },
+      {
+       "name": "Lymphatic System (Immune System)",
+       "description": "returns fluid to blood; defends against pathogens. Organs: thymus, lymph nodes, spleen, lymphatic vessels"
+      },
+      {
+       "name": "Respiratory System (Lungs)",
+       "description": "removes carbon dioxide from the body; delivers oxygen to blood. Organs: nasal passage, trachea, lungs"
+      },
+      {
+       "name": "Male Reproductive System",
+       "description": "produces sex hormones and gametes; delivers gametes to female. Organs: epididymis, testes"
+      },
+      {
+       "name": "Female Reproductive System",
+       "description": "produces sex hormones and gametes; supports embryo/fetus until birth; produces milk for infant. Organs: mammary glands, ovaries, uterus"
+      }
+     ]
+    },
+    {
+     "name": "Homeostasis",
+     "items": [
+      {
+       "name": "Homeostasis",
+       "description": "the maintenance of stable internal conditions within living organisms. The body maintains stability by monitoring internal conditions. Parameters like body temperature and blood pressure are tightly controlled."
+      },
+      {
+       "name": "Set Point",
+       "description": "normal value (e.g., body temperature at 37°C). Parameters fluctuate slightly around this set point."
+      },
+      {
+       "name": "Stimulus",
+       "description": "changes the variable; conditions in the body change from the set point."
+      },
+      {
+       "name": "Receptors",
+       "description": "detect deviations from the set point."
+      },
+      {
+       "name": "Control Center",
+       "description": "the brain's control centers receive information, compare it to the set point, and signal effector organs."
+      },
+      {
+       "name": "Effectors",
+       "description": "organs that adjust the body's response when signaled by the control centers."
+      }
+     ]
+    },
+    {
+     "name": "Negative and Positive Feedback",
+     "items": [
+      {
+       "name": "Negative Feedback (Reverses)",
+       "description": "reverses a deviation from the set point and in turn maintains body parameters within their normal range. Continuous process in our body at all times! More common than positive feedback."
+      },
+      {
+       "name": "Negative Feedback Loop Steps",
+       "description": "conditions in the body change from set point → change detected → corrective mechanisms activated → conditions returned to set point → corrective mechanisms switched off."
+      },
+      {
+       "name": "Negative Feedback Example (Blood Glucose)",
+       "description": "receptors on pancreatic β-cells detect blood glucose → pancreas β-cells release insulin into bloodstream → liver takes up glucose and stores as glycogen → response decreases stimulus. Receptor: pancreatic β-cells · Control center: pancreas β-cells · Effector: liver"
+      },
+      {
+       "name": "Positive Feedback (Amplifies)",
+       "description": "intensifies a physiological change rather than reversing it, leading to further deviation from the normal range."
+      },
+      {
+       "name": "Positive Feedback Examples",
+       "description": "oxytocin release during childbirth; milk ejection during breastfeeding; blood clotting after a cut. Breastfeeding: prolactin = milk production · oxytocin = milk ejection"
+      }
+     ]
+    },
+    {
+     "name": "Anatomical Position",
+     "items": [
+      {
+       "name": "Anatomical Position",
+       "description": "standardized posture for viewing the body with precision; used as a reference point to describe body structures and positions. Upright stance · feet at shoulder width, parallel, pointing forward · upper limbs extended to the sides · palms facing forward (supinated)"
+      },
+      {
+       "name": "Midline",
+       "description": "divides the body into mirrored symmetrical halves."
+      },
+      {
+       "name": "Right / Left",
+       "description": "refers to the body's own right and left side (R / L), not the viewer's."
+      },
+      {
+       "name": "Supine",
+       "description": "lying face up, on the back."
+      },
+      {
+       "name": "Prone",
+       "description": "lying face down, on the stomach."
+      }
+     ]
+    },
+    {
+     "name": "Planes of the Body",
+     "items": [
+      {
+       "name": "Sagittal Plane (Lateral)",
+       "description": "divides body into right and left sides."
+      },
+      {
+       "name": "Midsagittal (Median) Plane",
+       "description": "runs down the body's center."
+      },
+      {
+       "name": "Parasagittal Plane",
+       "description": "unequal division into right and left."
+      },
+      {
+       "name": "Frontal Plane (Coronal)",
+       "description": "separates front and back portions."
+      },
+      {
+       "name": "Transverse Plane (Horizontal)",
+       "description": "divides the body into upper and lower sections, producing cross-sectional images."
+      }
+     ]
+    },
+    {
+     "name": "Directional Terms (One Thing Relative to Another)",
+     "items": [
+      {
+       "name": "Superior / Cranial",
+       "description": "towards the head end of the body."
+      },
+      {
+       "name": "Inferior / Caudal",
+       "description": "away from the head, e.g., foot."
+      },
+      {
+       "name": "Anterior / Ventral",
+       "description": "front of the body."
+      },
+      {
+       "name": "Posterior / Dorsal",
+       "description": "back of the body."
+      },
+      {
+       "name": "Medial",
+       "description": "towards the middle; closer to the midline."
+      },
+      {
+       "name": "Lateral",
+       "description": "away from the midline. e.g., the arm is lateral to the sternum"
+      },
+      {
+       "name": "Proximal",
+       "description": "towards the trunk or point of origin of a part. e.g., hip is proximal to knee · femur is proximal to tibia · shoulder is proximal to elbow"
+      },
+      {
+       "name": "Distal",
+       "description": "away from the trunk or point of origin of a part. e.g., toes are distal to knee · fibula is distal to femur · fingers are distal to shoulder"
+      },
+      {
+       "name": "Superficial / Deep",
+       "description": "used inside the body; superficial = closer to the body surface, deep = farther from the surface."
+      }
+     ]
+    },
+    {
+     "name": "Body Cavities",
+     "items": [
+      {
+       "name": "Dorsal Cavity",
+       "description": "includes the cranial and spinal (vertebral) cavities."
+      },
+      {
+       "name": "Ventral Cavity",
+       "description": "includes the thoracic and abdominopelvic cavities and their subdivisions."
+      },
+      {
+       "name": "Thoracic Cavity",
+       "description": "above the diaphragm; includes the superior mediastinum, pleural cavities, and pericardial cavity within the mediastinum."
+      },
+      {
+       "name": "Abdominopelvic Cavity",
+       "description": "below the diaphragm; includes the abdominal cavity and pelvic cavity."
+      }
+     ]
+    },
+    {
+     "name": "Anatomical Regions: Nine Abdominal Regions",
+     "items": [
+      {
+       "name": "Upper Row",
+       "description": "Right hypochondriac · Epigastric · Left hypochondriac"
+      },
+      {
+       "name": "Middle Row",
+       "description": "Right lumbar · Umbilical · Left lumbar"
+      },
+      {
+       "name": "Lower Row",
+       "description": "Right iliac · Hypogastric · Left iliac"
+      }
+     ]
+    },
+    {
+     "name": "Anatomical Regions: Four Abdominal Quadrants",
+     "items": [
+      {
+       "name": "RUQ",
+       "description": "Right upper quadrant"
+      },
+      {
+       "name": "LUQ",
+       "description": "Left upper quadrant"
+      },
+      {
+       "name": "RLQ",
+       "description": "Right lower quadrant"
+      },
+      {
+       "name": "LLQ",
+       "description": "Left lower quadrant"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Module 2 · Chapters 3, 4 and 5",
+   "course": "PN Structure and Function of the Human Body · NRSG-10159",
+   "topics": "Chemical Level of Organization · Cells · Tissues · Integumentary System (Skin)",
+   "groups": [
+    {
+     "name": "Organization of Living Things (Review)",
+     "items": [
+      {
+       "name": "Atoms",
+       "description": "the smallest and most fundamental unit of matter. Consists of a nucleus (protons and neutrons) surrounded by electrons."
+      },
+      {
+       "name": "Molecules",
+       "description": "chemical structures formed by at least two atoms held together by chemical bonds. e.g., water (H₂O)"
+      },
+      {
+       "name": "Macromolecules",
+       "description": "large molecules formed by combining smaller units called monomers. e.g., DNA – contains the instructions for the functioning of the organism"
+      },
+      {
+       "name": "Proteins",
+       "description": "perform various functions within organisms."
+      },
+      {
+       "name": "Carbohydrates",
+       "description": "provide energy and structural support."
+      },
+      {
+       "name": "Lipids",
+       "description": "store energy and make up cell membranes."
+      },
+      {
+       "name": "Organelles",
+       "description": "aggregates of biomolecules surrounded by membranes within cells. e.g., mitochondria – produce ATP (energy)"
+      },
+      {
+       "name": "Cells",
+       "description": "the smallest fundamental unit of structure in living organisms. All living things are made of cells."
+      },
+      {
+       "name": "Tissues",
+       "description": "group of similar cells carrying out the same function. e.g., muscle, nervous, epithelial and connective tissue"
+      },
+      {
+       "name": "Organs",
+       "description": "collections of two or more tissue types grouped together based on a common function. e.g., heart (includes muscle tissue, nervous tissue)"
+      },
+      {
+       "name": "Organ Systems",
+       "description": "higher level of organization consisting of functionally related organs. e.g., circulatory system – transports blood throughout the body; includes the heart and blood vessels"
+      },
+      {
+       "name": "Organisms",
+       "description": "individual living entities."
+      }
+     ]
+    },
+    {
+     "name": "Chemical Level: Matter, Elements and Atoms",
+     "items": [
+      {
+       "name": "Matter",
+       "description": "the substance of the universe, from a grain of sand to a star. Exists in three states: solid, liquid, gas"
+      },
+      {
+       "name": "Elements",
+       "description": "matter composed of atoms that have the same number of positive charges in their nuclei. All matter is composed of elements. More than 100 elements exist, but only about 25 are required by living organisms."
+      },
+      {
+       "name": "Four Main Elements (about 96% of body weight)",
+       "description": "Oxygen (O) 65.0% · Carbon (C) 18.5% · Hydrogen (H) 9.5% · Nitrogen (N) 3.2%"
+      },
+      {
+       "name": "Other Elements in the Body",
+       "description": "Calcium (Ca) 1.5% · Phosphorus (P) 1.0% · Potassium (K) 0.4% · Sulfur (S) 0.3% · Sodium (Na) 0.2% · Chlorine (Cl) 0.2% · Magnesium (Mg) 0.1%"
+      },
+      {
+       "name": "Trace Elements",
+       "description": "present in tiny amounts (less than 1.0%); essential for life. Boron, chromium, cobalt, copper, fluorine, iodine, iron, manganese, molybdenum, selenium, silicon, tin, vanadium, zinc"
+      },
+      {
+       "name": "Atom",
+       "description": "smallest unit of an element with that element's unique properties."
+      },
+      {
+       "name": "Protons",
+       "description": "carry a positive electrical charge."
+      },
+      {
+       "name": "Neutrons",
+       "description": "carry no electrical charge."
+      },
+      {
+       "name": "Electrons",
+       "description": "carry a negative electrical charge."
+      }
+     ]
+    },
+    {
+     "name": "Cells and the Cell Membrane",
+     "items": [
+      {
+       "name": "Cells",
+       "description": "the basic units of structure and function in the human body. You developed from a single fertilized egg cell into an organism with trillions of cells. Cell structures reflect their specialized functions."
+      },
+      {
+       "name": "Nucleus",
+       "description": "the part that contains the genetic information and controls all protein synthesis; the control center of the cell. Most adult cells have one nucleus. Mature red blood cells do not have a nucleus."
+      },
+      {
+       "name": "Cytoplasm",
+       "description": "the inside of the cell is divided into two compartments, the nucleus and the cytoplasm; the cytoplasm holds the organelles."
+      },
+      {
+       "name": "Cell Membrane",
+       "description": "the cell's \"security gate\"; surrounds and protects the cell and controls what can enter and leave. This control helps the cell maintain a stable internal environment."
+      },
+      {
+       "name": "Selectively Permeable",
+       "description": "allows some substances through while blocking others."
+      },
+      {
+       "name": "Phospholipid Bilayer",
+       "description": "two layers of phospholipids; what the cell membrane is mainly made of."
+      },
+      {
+       "name": "Channels (membrane proteins)",
+       "description": "allow certain substances to move through the membrane."
+      },
+      {
+       "name": "Receptors (membrane proteins)",
+       "description": "receive signals, such as hormones. Other membrane proteins help support and identify the cell."
+      }
+     ]
+    },
+    {
+     "name": "Cytoplasmic Organelles",
+     "items": [
+      {
+       "name": "Mitochondria",
+       "description": "produce ATP (energy)."
+      },
+      {
+       "name": "Ribosomes",
+       "description": "sites of protein synthesis. Fixed and free"
+      },
+      {
+       "name": "Endoplasmic Reticulum (ER)",
+       "description": "network of membranes in cytosol."
+      },
+      {
+       "name": "Rough ER (RER)",
+       "description": "fixed ribosomes on surface."
+      },
+      {
+       "name": "Smooth ER (SER)",
+       "description": "no ribosomes; site of lipid and steroid synthesis."
+      },
+      {
+       "name": "Golgi Apparatus",
+       "description": "a series of flat membrane sacs; puts finishing touches on protein after synthesis on RER and packages protein in Golgi membrane. Finishes the protein by adding or removing sugars, such as glucose, depending on its final destination."
+      },
+      {
+       "name": "Secretory Vesicle",
+       "description": "a completed protein wrapped in a bit of Golgi membrane; moves toward the cell membrane and is secreted from the cell."
+      },
+      {
+       "name": "Lysosomes",
+       "description": "break down waste for \"housekeeping\" within the cell."
+      },
+      {
+       "name": "Cytoskeleton",
+       "description": "composed of microfilaments and microtubules; provides intracellular shape and support."
+      },
+      {
+       "name": "Centrioles",
+       "description": "rod-shaped structures; help separate chromosomes during mitosis."
+      }
+     ]
+    },
+    {
+     "name": "On the Cell Membrane",
+     "items": [
+      {
+       "name": "Microvilli",
+       "description": "tiny projections of the membrane of the absorptive cell. Seen through a light microscope, they form a fuzzy line called the brush border (e.g., small intestine)."
+      },
+      {
+       "name": "Cilia",
+       "description": "short, hair-like projections; wavelike motions move substances across the cell's surface."
+      },
+      {
+       "name": "Flagella",
+       "description": "whip-like: thicker, longer, and fewer in number than cilia; enable sperm to swim."
+      }
+     ]
+    },
+    {
+     "name": "Transport Within the Cell",
+     "items": [
+      {
+       "name": "Passive Transport",
+       "description": "\"downhill\" movement (no ATP needed). Diffusion · facilitated diffusion · osmosis · tonicity · filtration"
+      },
+      {
+       "name": "Active Transport",
+       "description": "\"uphill\" movement that requires ATP. Active transport pumps · endocytosis · exocytosis"
+      },
+      {
+       "name": "Diffusion",
+       "description": "movement of a substance from an area of higher concentration to one of lower concentration. e.g., oxygen and carbon dioxide moving between the alveoli and blood"
+      },
+      {
+       "name": "Equilibrium",
+       "description": "point at which concentration is equal and no further net diffusion occurs."
+      },
+      {
+       "name": "Facilitated Diffusion",
+       "description": "a helper molecule within the membrane assists with the movement of substances from higher to lower concentration. e.g., glucose being \"helped\" downhill"
+      },
+      {
+       "name": "Osmosis",
+       "description": "movement of water (solvent) from area with more water to area with less water, across a selectively permeable membrane."
+      },
+      {
+       "name": "Tonicity",
+       "description": "ability of a solution to affect the volume and pressure within a cell; describes the solute concentration of the surrounding fluid and determines the direction of water movement."
+      },
+      {
+       "name": "Isotonic Solution",
+       "description": "water movement is balanced. e.g., normal saline – cell keeps its shape"
+      },
+      {
+       "name": "Hypotonic Solution",
+       "description": "water moves into the cell (passive transport/osmosis). e.g., water – cell swells"
+      },
+      {
+       "name": "Hypertonic Solution",
+       "description": "water moves out of the cell. e.g., concentrated salt solution – cell shrinks"
+      },
+      {
+       "name": "Filtration",
+       "description": "movement of water and dissolved substances from an area of higher pressure to an area of lower pressure; they are pushed. e.g., force from the heart pushes water out of blood vessels"
+      },
+      {
+       "name": "Active Transport Pumps",
+       "description": "move substance from area of lower concentration to area of higher concentration; require input of energy (ATP)."
+      },
+      {
+       "name": "Endocytosis",
+       "description": "ingestion of substances by the cell membrane. Phagocytosis (cell eating) · pinocytosis (cell drinking)"
+      },
+      {
+       "name": "Exocytosis",
+       "description": "secretion of cellular products out of the cell."
+      }
+     ]
+    },
+    {
+     "name": "Cell Division, Stem Cells and Differentiation",
+     "items": [
+      {
+       "name": "Cell Division (Cell Reproduction)",
+       "description": "cells have a limited life span, so cellular division is necessary for bodily growth and repair. Skin, bone marrow, and digestive tract lining cells reproduce rapidly; some nerve cells do not reproduce at all."
+      },
+      {
+       "name": "Mitosis",
+       "description": "a single cell divides into two genetically identical daughter cells (2n → 2n). Primary functions: growth, tissue repair, and asexual reproduction"
+      },
+      {
+       "name": "Meiosis",
+       "description": "a cell divides into four genetically unique daughter cells, each with half the chromosome number of the parent (2n → n). Sole function: produce gametes (sperm and eggs) for sexual reproduction"
+      },
+      {
+       "name": "Cell Cycle",
+       "description": "the sequence of events that a cell goes through from one mitotic division to the next."
+      },
+      {
+       "name": "Stem Cells",
+       "description": "relatively undifferentiated or unspecialized cells whose only function is the production of additional unspecialized cells. Rate of division varies with tissue type; stem cells in bone marrow and skin can divide more than once a day."
+      },
+      {
+       "name": "Cell Differentiation",
+       "description": "an unspecialized cell becomes a specialized cell (e.g., neuron, red blood cell, muscle, bone, epithelial cell) as enzymes are \"switched on.\""
+      }
+     ]
+    },
+    {
+     "name": "The Tissue Level of Organization (Chapter 4)",
+     "items": [
+      {
+       "name": "Tissues",
+       "description": "groups of cells that are similar to one another in structure and function."
+      },
+      {
+       "name": "Histology",
+       "description": "study of tissues."
+      },
+      {
+       "name": "Four Major Types of Tissue",
+       "description": "epithelial, connective, muscular, nervous."
+      },
+      {
+       "name": "Golden Exam Points (from slide)",
+       "description": "Epithelial tissue → no blood supply · Cardiac muscle → involuntary & striated · Nervous tissue → poor regeneration"
+      }
+     ]
+    },
+    {
+     "name": "1. Epithelial Tissue",
+     "items": [
+      {
+       "name": "Where Found",
+       "description": "covers the body's outer surface; lines most inner cavities (mouth, respiratory tract, reproductive tract); forms glands."
+      },
+      {
+       "name": "Functions",
+       "description": "protection, absorption, filtration, secretion, transportation. e.g., epithelial tissue in the intestines absorbs water and nutrients; forms glands that secrete hormones and enzymes"
+      },
+      {
+       "name": "What It Is Like",
+       "description": "forms continuous sheets, like floor tiles; outer surface unattached; undersurface attached to basement membrane."
+      },
+      {
+       "name": "Avascular",
+       "description": "no blood supply; depends on underlying connective tissue for nourishment. High regenerative capacity · cells tightly packed, little intercellular matrix"
+      },
+      {
+       "name": "Simple Squamous",
+       "description": "thin, flat cells (e.g., alveoli / air sacs in lungs)."
+      },
+      {
+       "name": "Simple Cuboidal",
+       "description": "in ducts and secretory portions of small glands and in kidney tubules; secretes and absorbs."
+      },
+      {
+       "name": "Simple Columnar",
+       "description": "absorption & secretion (e.g., intestine); also secretes mucus and enzymes. Ciliated in bronchi, uterine tubes, and uterus; nonciliated in the digestive tract and bladder"
+      },
+      {
+       "name": "Pseudostratified Columnar",
+       "description": "ciliated tissue lines the trachea and much of the upper respiratory tract; secretes mucus, cilia move mucus."
+      },
+      {
+       "name": "Stratified Squamous",
+       "description": "lines the esophagus, mouth, and vagina; protects against abrasion."
+      },
+      {
+       "name": "Stratified Cuboidal",
+       "description": "protection (e.g., sweat glands, salivary glands, and mammary glands)."
+      },
+      {
+       "name": "Stratified Columnar",
+       "description": "the male urethra and the ducts of some glands; secretes and protects."
+      },
+      {
+       "name": "Transitional",
+       "description": "lines the bladder, urethra, and the ureters; allows the urinary organs to expand and stretch."
+      },
+      {
+       "name": "Glandular Epithelia",
+       "description": "function is secretion. Exocrine glands (release secretions through pores, e.g., sweat glands) · endocrine glands (secrete hormones)"
+      }
+     ]
+    },
+    {
+     "name": "2. Connective Tissue",
+     "items": [
+      {
+       "name": "Location",
+       "description": "in blood, under skin, in bone, around organs."
+      },
+      {
+       "name": "Functions",
+       "description": "support (organs and body structures), connection (tissues and organs together), protection (protects and cushions organs), fat storage, transportation (transports substances in the blood). Key idea: connective tissue = support + connect + protect + transport"
+      },
+      {
+       "name": "Extracellular Matrix (ECM)",
+       "description": "connective tissue has fewer cells and more material around the cells; this material is called the ECM. Change the extracellular matrix, and you change the type of connective tissue."
+      },
+      {
+       "name": "Collagen Fibres",
+       "description": "provide strength."
+      },
+      {
+       "name": "Elastic Fibres",
+       "description": "allow stretching."
+      },
+      {
+       "name": "Ground Substance",
+       "description": "gel-like material around the cells."
+      },
+      {
+       "name": "Interstitial Fluid",
+       "description": "helps nutrients and wastes move between blood and cells."
+      },
+      {
+       "name": "Connective Tissue Proper",
+       "description": "protein fibers abundant in variable ground substance; support, binding, and protection. Loose (areolar, adipose, reticular) – flexible support, binds and cushions organs · Dense fibrous (dense regular, dense irregular, elastic; e.g., tendon, dermis) – strong support, withstands stress"
+      },
+      {
+       "name": "Cartilage",
+       "description": "firm but flexible connective tissue with cells in lacunae (matrix: chondroitin sulfate); flexible support and shock absorption. Hyaline, fibrocartilage, elastic · e.g., nose, ear, intervertebral disc"
+      },
+      {
+       "name": "Bone (Osseous)",
+       "description": "hard, mineralized connective tissue (matrix: calcium phosphate); rigid support, protection, mineral storage. Consume enough calcium"
+      },
+      {
+       "name": "Blood and Lymph",
+       "description": "blood is a fluid connective tissue (liquid matrix: plasma); transport, defense, and clotting. Red blood cells (erythrocytes) · white blood cells (leukocytes) · platelets (thrombocytes) · plasma"
+      }
+     ]
+    },
+    {
+     "name": "3. Nervous Tissue",
+     "items": [
+      {
+       "name": "Nervous Tissue",
+       "description": "makes up the brain, spinal cord, and nerves. Functions: communication, coordination, sensory reception"
+      },
+      {
+       "name": "Neurons",
+       "description": "receive and transmit impulses. Parts: dendrites, cell body, axon"
+      },
+      {
+       "name": "Neuroglia (Glia)",
+       "description": "assist the propagation of the nerve impulse and provide nutrients to the neurons."
+      }
+     ]
+    },
+    {
+     "name": "4. Muscle Tissue",
+     "items": [
+      {
+       "name": "Muscle Tissue",
+       "description": "composed of cells (fibers) that contract to cause movement of a body part. Functions: locomotion, organ movement, heartbeat"
+      },
+      {
+       "name": "Skeletal Muscle",
+       "description": "voluntary."
+      },
+      {
+       "name": "Smooth Muscle",
+       "description": "involuntary (e.g., walls of the digestive organs)."
+      },
+      {
+       "name": "Cardiac Muscle",
+       "description": "heart; involuntary and striated."
+      }
+     ]
+    },
+    {
+     "name": "Tissue Injury and Repair",
+     "items": [
+      {
+       "name": "Phases of Tissue Repair",
+       "description": "(1) Hemostasis → (2) Inflammation → (3) Proliferation → (4) Remodeling"
+      },
+      {
+       "name": "Steps in Tissue Repair",
+       "description": "Wound → clot and scab → tissue repair begins → scar tissue forms → epithelial cells multiply → scab detaches"
+      }
+     ]
+    },
+    {
+     "name": "Membranes",
+     "items": [
+      {
+       "name": "Membranes",
+       "description": "thin sheets of tissue that cover surfaces, line body cavities, surround organs, and lubricate different parts of the body."
+      },
+      {
+       "name": "Mucous Membranes",
+       "description": "line all body cavities that open to the exterior of the body; coated with secretions of mucous glands. Respiratory, digestive, urinary, reproductive tracts"
+      },
+      {
+       "name": "Serous Membranes",
+       "description": "line ventral body cavities that do not open to the exterior. Pleura (parietal and visceral) · pericardium · peritoneum (parietal and visceral)"
+      },
+      {
+       "name": "Cutaneous Membrane",
+       "description": "the skin; covers the body surface."
+      },
+      {
+       "name": "Synovial Membranes",
+       "description": "line joint cavities and produce the fluid within the joint."
+      }
+     ]
+    },
+    {
+     "name": "Integumentary System (Chapter 5)",
+     "items": [
+      {
+       "name": "Integumentary System (Skin)",
+       "description": "largest organ of the human body; approximately 16% of human body weight; complex structure composed of various tissues. Accessories: hair, nails, oil and sweat glands"
+      },
+      {
+       "name": "Three Layers",
+       "description": "epidermis, dermis, hypodermis; held together by connective tissue."
+      },
+      {
+       "name": "Epidermis",
+       "description": "made of closely packed epithelial cells (keratinocytes); site of pigment production (melanin) and keratin (regulates skin rigidity). Epi = upon"
+      },
+      {
+       "name": "Dermis",
+       "description": "made of dense, irregular connective tissue that houses blood vessels, hair follicles, sweat glands, and other structures."
+      },
+      {
+       "name": "Hypodermis (Subcutaneous Fat)",
+       "description": "composed mainly of loose connective and fatty tissues. Hypo = below"
+      }
+     ]
+    },
+    {
+     "name": "Functions of the Skin",
+     "items": [
+      {
+       "name": "Protection",
+       "description": "forms a barrier against injury, pathogens, and water loss."
+      },
+      {
+       "name": "Sensory",
+       "description": "contains receptors for touch, pressure, pain, and temperature."
+      },
+      {
+       "name": "Thermoregulation",
+       "description": "helps control body temperature through sweating and blood vessel changes."
+      },
+      {
+       "name": "Fluid and Electrolyte Balance",
+       "description": "helps reduce excessive fluid loss and supports balance."
+      },
+      {
+       "name": "Excretion",
+       "description": "removes small amounts of water, salts, and wastes through sweat."
+      },
+      {
+       "name": "Elimination",
+       "description": "contributes to removal of minor waste products through the skin."
+      },
+      {
+       "name": "Secretion",
+       "description": "sebaceous glands release sebum to lubricate skin and hair."
+      },
+      {
+       "name": "Absorption",
+       "description": "limited absorption of certain medications and chemicals through the skin."
+      },
+      {
+       "name": "Immunity",
+       "description": "immune cells in the skin help detect and fight pathogens."
+      },
+      {
+       "name": "Insulation",
+       "description": "subcutaneous tissue helps conserve body heat."
+      },
+      {
+       "name": "Hormone Production",
+       "description": "UV exposure helps the skin produce vitamin D needed for calcium balance."
+      }
+     ]
+    },
+    {
+     "name": "Layers of the Epidermis (Outermost → Deepest)",
+     "items": [
+      {
+       "name": "Stratum Corneum",
+       "description": "outermost layer; 15–30 layers of dead, keratinized cells; protects against friction, pathogens, and water loss. Cells are continuously shed and replaced."
+      },
+      {
+       "name": "Stratum Lucidum",
+       "description": "found only in thick skin, such as the palms and soles; flattened, dead keratinocytes; extra protection and durability."
+      },
+      {
+       "name": "Stratum Granulosum",
+       "description": "3–5 layers of keratinocytes that begin to flatten, die, and fill with keratin; helps form the skin's water barrier (prevents fluid loss). Corneum + lucidum + granulosum create a strong, protective, water-resistant surface."
+      },
+      {
+       "name": "Stratum Spinosum",
+       "description": "8–10 layers of keratinocytes connected by desmosomes (\"spiny\" appearance); keratin production begins to increase. Key function: provides strength and immune protection to the epidermis"
+      },
+      {
+       "name": "Stratum Basale (Germinativum)",
+       "description": "deepest layer of the epidermis; a single row of rapidly dividing basal cells that act as stem cells, producing new keratinocytes. Hemidesmosomes anchor the cells to the basal lamina."
+      },
+      {
+       "name": "Keratinocytes",
+       "description": "closely packed epithelial cells of the epidermis that produce keratin."
+      },
+      {
+       "name": "Melanocytes",
+       "description": "about 10–25% of cells in the stratum basale; produce melanin, which contributes to skin colour and helps protect against UV radiation."
+      },
+      {
+       "name": "Merkel Cells",
+       "description": "specialized touch receptors found mainly in hairless skin (stratum basale); respond to light pressure and stimulate sensory nerve endings."
+      },
+      {
+       "name": "Dendritic Cells (Langerhans Cells)",
+       "description": "immune cells in the stratum spinosum; detect and help destroy pathogens and abnormal cells."
+      },
+      {
+       "name": "Desmosomes",
+       "description": "connect keratinocytes, giving the \"spiny\" appearance and strength to the epidermis."
+      }
+     ]
+    },
+    {
+     "name": "The Dermis",
+     "items": [
+      {
+       "name": "Dermis",
+       "description": "supports the epidermis; lies between the epidermis and hypodermis. Key function: provides strength, flexibility, nourishment, sensation, and support"
+      },
+      {
+       "name": "Papillary Layer",
+       "description": "superficial dermal layer; areolar connective tissue; contains capillaries and sensory nerve endings; nourishes the epidermis and supports touch. Dermal papillae help anchor the epidermis."
+      },
+      {
+       "name": "Reticular Layer",
+       "description": "deeper, thicker dermal layer; dense irregular connective tissue; contains blood vessels, receptors, hair follicles, and glands. Collagen = strength; elastic fibers = flexibility · supports protection and temperature regulation"
+      }
+     ]
+    },
+    {
+     "name": "The Hypodermis",
+     "items": [
+      {
+       "name": "Hypodermis",
+       "description": "lies beneath the dermis and connects the skin to deeper tissues; anchors the skin while still allowing movement over muscles; contains large amounts of adipose tissue. Hypo = below or under"
+      },
+      {
+       "name": "Insulation",
+       "description": "helps reduce heat loss."
+      },
+      {
+       "name": "Cushioning",
+       "description": "protects underlying tissues from impact."
+      },
+      {
+       "name": "Energy Storage",
+       "description": "stores fat as an energy reserve."
+      }
+     ]
+    },
+    {
+     "name": "Skin Pigmentation / Colour",
+     "items": [
+      {
+       "name": "Skin Pigmentation",
+       "description": "coloration depends on the amount of melanin produced by melanocytes in the stratum basale and taken up by keratinocytes."
+      },
+      {
+       "name": "Genetics",
+       "description": "determines baseline skin colour."
+      },
+      {
+       "name": "UV Exposure",
+       "description": "increases melanin production, causing tanning."
+      },
+      {
+       "name": "Melanin",
+       "description": "brown-black pigment made by melanocytes in the stratum basale."
+      },
+      {
+       "name": "Carotene",
+       "description": "yellow-orange pigment that accumulates in the epidermis and adipose tissue. Found in orange and yellow vegetables (e.g., carrots, sweet potatoes, squash)"
+      },
+      {
+       "name": "Albinism",
+       "description": "inherited condition with reduced or absent melanin production."
+      },
+      {
+       "name": "Key Point",
+       "description": "differences in skin colour are mainly due to how much melanin is produced and distributed, not the number of melanocytes."
+      }
+     ]
+    },
+    {
+     "name": "Accessory Structures: Hair and Nails",
+     "items": [
+      {
+       "name": "Hair",
+       "description": "a keratin filament from the epidermis, primarily consisting of dead cells; protection and sensation. Grows from the hair follicle, penetrating the epidermis into the dermis"
+      },
+      {
+       "name": "Hair Shaft",
+       "description": "visible part of the hair."
+      },
+      {
+       "name": "Hair Root",
+       "description": "anchored portion below; ends at the hair bulb deep in the dermis."
+      },
+      {
+       "name": "Hair Bulb",
+       "description": "contains actively dividing cells; surrounds the hair papilla."
+      },
+      {
+       "name": "Hair Papilla",
+       "description": "has blood vessels and nerve endings from the dermis."
+      },
+      {
+       "name": "Arrector Pili Muscle",
+       "description": "causes goosebumps (piloerection)."
+      },
+      {
+       "name": "Nails",
+       "description": "protect the tips of fingers and toes; nail body consists of dense, dead keratinocytes."
+      },
+      {
+       "name": "Nail Bed",
+       "description": "specialized part of the epidermis at fingertips and toes; forms the foundation for the nail body, protecting high stress areas. Pink appearance due to its rich blood supply"
+      },
+      {
+       "name": "Nail Root",
+       "description": "where nail growth occurs, with a matrix of basal cells allowing continuous growth."
+      },
+      {
+       "name": "Nail Cuticle (Eponychium)",
+       "description": "forms where the nail fold meets the proximal nail body."
+      },
+      {
+       "name": "Lunula",
+       "description": "visible part of the nail root."
+      }
+     ]
+    },
+    {
+     "name": "Accessory Structures: Glands of the Skin",
+     "items": [
+      {
+       "name": "Sweat Glands (Sudoriferous Glands)",
+       "description": "produce sweat to help regulate body temperature (cooling); also help remove small amounts of waste products."
+      },
+      {
+       "name": "Eccrine Sweat Glands",
+       "description": "main function is thermoregulation (body cooling); most numerous (2–4 million); open directly onto the skin surface (sweat pores). Throughout the body, especially forehead, palms, soles · sweat is mostly water and salt (NaCl), with antibodies, metabolic waste traces, and the antimicrobial peptide dermcidin · generally odorless"
+      },
+      {
+       "name": "Apocrine Sweat Glands",
+       "description": "scent/odor production; larger and fewer; open into hair follicles; found in densely hairy areas (armpits, genital regions, areola). Thicker sweat (proteins, lipids, organic compounds) · bacterial breakdown causes body odor"
+      },
+      {
+       "name": "Sebaceous Glands",
+       "description": "type of oil gland found all over body; help to lubricate and waterproof skin and hair; most are associated with hair follicles."
+      },
+      {
+       "name": "Sebum",
+       "description": "a mixture of lipids made by sebaceous glands; its fatty acids have antibacterial properties and prevent water loss from skin. Sebum is stimulated by hormones."
+      }
+     ]
+    },
+    {
+     "name": "Clinical Connections: Skin",
+     "items": [
+      {
+       "name": "Wound Healing",
+       "description": "after a superficial abrasion, basal cells rapidly divide to produce new keratinocytes and repair the epidermis. If the stratum basale remains intact, the skin can heal well; if destroyed, healing is slower and may lead to scarring."
+      },
+      {
+       "name": "Basal Cell Carcinoma",
+       "description": "common skin cancer that begins from cells associated with the stratum basale, often after long-term UV exposure."
+      },
+      {
+       "name": "Vitiligo",
+       "description": "melanocytes are lost or destroyed, producing areas of depigmented skin."
+      },
+      {
+       "name": "Melanoma",
+       "description": "melanocytes become cancerous."
+      },
+      {
+       "name": "Viral Warts (HPV)",
+       "description": "human papillomavirus infects keratinocytes in the upper epidermis, causing increased cell growth and wart formation."
+      },
+      {
+       "name": "Dry Skin",
+       "description": "when the stratum granulosum and corneum are impaired, water is lost more easily (e.g., eczema, dermatitis)."
+      },
+      {
+       "name": "Blisters",
+       "description": "separation near the dermal-epidermal junction causes fluid-filled blisters (e.g., from friction, burns)."
+      },
+      {
+       "name": "Second-Degree Burns",
+       "description": "damage the epidermis and extend into the dermis, causing pain, redness, swelling, and blistering."
+      },
+      {
+       "name": "Intradermal Injection",
+       "description": "medication is injected into the dermis (e.g., TB or allergy testing)."
+      },
+      {
+       "name": "Hypodermic Needle",
+       "description": "injects into the hypodermis; subcutaneous fat, muscle and veins are all hypodermic."
+      },
+      {
+       "name": "Pressure Injury",
+       "description": "prolonged pressure reduces blood flow to the dermis, damaging skin and underlying tissue."
+      },
+      {
+       "name": "Scar Formation",
+       "description": "injury to the deeper reticular dermis stimulates collagen production and leads to scar tissue."
+      },
+      {
+       "name": "Stretch Marks (Striae)",
+       "description": "damage and stretching of collagen and elastic fibers in the dermis."
+      },
+      {
+       "name": "Tattooing",
+       "description": "pigment is placed into the dermis, which is why it remains visible long term."
+      },
+      {
+       "name": "Acne",
+       "description": "disorder of the sebaceous glands and hair follicles, involving excess sebum production, clogged pores, bacterial growth, and inflammation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Module 3 · Blood, Body Fluid and Electrolytes",
+   "course": "PN Structure and Function of the Human Body · NRSG-10159",
+   "topics": "Blood · Formed Elements · Hemostasis · Blood Types · Body Fluids · Electrolytes · Acid–Base Balance",
+   "groups": [
+    {
+     "name": "Blood and the Cardiovascular System",
+     "items": [
+      {
+       "name": "Cardiovascular System",
+       "description": "fluid – blood; conducting tubes – blood vessels (capillaries, arteries, veins); pump – heart. Blood is the medium of transport: it delivers nutrients to and removes wastes from our trillions of cells."
+      },
+      {
+       "name": "Blood Volume",
+       "description": "5–6 liters in average male; 4–5 liters in average female."
+      },
+      {
+       "name": "Parts of Blood",
+       "description": "cellular elements (RBCs, WBCs, platelets) + extracellular matrix: plasma (mostly water)."
+      },
+      {
+       "name": "Blood in a Test Tube",
+       "description": "plasma about 55% (water, proteins, nutrients, hormones) · buffy coat less than 1% (white blood cells, platelets) · red blood cells about 45%."
+      },
+      {
+       "name": "Hematocrit",
+       "description": "measures the percentage of RBCs (erythrocytes) in a blood sample. Normal: female 37–47%, male 42–52% · depressed in anemia · elevated in polycythemia"
+      }
+     ]
+    },
+    {
+     "name": "Characteristics of Blood",
+     "items": [
+      {
+       "name": "Colour",
+       "description": "oxygenated blood is bright red; deoxygenated blood is a darker red. Hemoglobin is a pigment that changes color depending on the degree of oxygen saturation."
+      },
+      {
+       "name": "Viscosity",
+       "description": "blood is 5 times more viscous than water because of protein and other contents."
+      },
+      {
+       "name": "pH",
+       "description": "7.35–7.45 (more alkaline)."
+      },
+      {
+       "name": "Temperature",
+       "description": "38 degrees (°C)."
+      }
+     ]
+    },
+    {
+     "name": "Functions of Blood",
+     "items": [
+      {
+       "name": "Transportation",
+       "description": "transports O₂, CO₂, nutrients, hormones, wastes."
+      },
+      {
+       "name": "Regulation (Homeostasis)",
+       "description": "regulates pH and ion composition by absorbing and neutralizing acids; body temperature regulation, chemical balance."
+      },
+      {
+       "name": "Restricting Fluid Loss",
+       "description": "restricts fluid loss at injury sites with the clotting process."
+      },
+      {
+       "name": "Defense / Immunity",
+       "description": "defends against toxins and pathogens with white blood cells and antibodies; platelets help with clotting."
+      },
+      {
+       "name": "Stabilizing Temperature",
+       "description": "absorbs heat and distributes blood flow to different areas."
+      }
+     ]
+    },
+    {
+     "name": "Plasma: Extracellular Component of Blood",
+     "items": [
+      {
+       "name": "Plasma",
+       "description": "46–63% of blood; 92% water; the substances dissolved in it are mostly proteins."
+      },
+      {
+       "name": "Water",
+       "description": "92% of plasma; transport medium."
+      },
+      {
+       "name": "Plasma Proteins",
+       "description": "7% of plasma; proteins specific to plasma: albumin, globulin, fibrinogen."
+      },
+      {
+       "name": "Albumin",
+       "description": "54–60% of plasma proteins; made in the liver; maintains osmotic concentration, transports lipid molecules."
+      },
+      {
+       "name": "Globulins",
+       "description": "35–38% of plasma proteins. Alpha and beta globulins (liver) – transport, maintain osmotic concentration · gamma globulins (immunoglobulins, made by plasma cells) – immune responses"
+      },
+      {
+       "name": "Fibrinogen",
+       "description": "4–7% of plasma proteins; made in the liver; blood clotting in hemostasis."
+      },
+      {
+       "name": "Regulatory Proteins",
+       "description": "less than 1%; hormones and enzymes; regulate various body functions."
+      },
+      {
+       "name": "Other Solutes",
+       "description": "1%; nutrients, gases, and wastes."
+      }
+     ]
+    },
+    {
+     "name": "Formed Elements and Hematopoiesis",
+     "items": [
+      {
+       "name": "Formed Elements",
+       "description": "37–54% of blood: erythrocytes (99%), leukocytes (less than 1%), platelets (less than 1%)."
+      },
+      {
+       "name": "Lifespan of Formed Elements",
+       "description": "very brief, a few hours to a few days, so the body must continuously create new blood cells."
+      },
+      {
+       "name": "Hemopoiesis / Hematopoiesis",
+       "description": "the process of forming and replacing blood cells (haima- = \"blood\"; -poiesis = \"production\"). Hematopoiesis and hemopoiesis are the same process, no difference in meaning."
+      },
+      {
+       "name": "Red Bone Marrow",
+       "description": "all formed elements arise from stem cells of the red bone marrow; it produces different cells at different rates. Skull, pelvis, ribs, sternum, humerus, femur"
+      },
+      {
+       "name": "Extramedullary Hemopoiesis",
+       "description": "when disease impairs the bone marrow, hemopoiesis begins in the liver and spleen, causing the spleen to enlarge."
+      },
+      {
+       "name": "Hematopoietic Stem Cell (Hemocytoblast)",
+       "description": "multipotent stem cell that becomes a myeloid or lymphoid stem cell. Myeloid → platelets (megakaryocyte), erythrocyte, basophil, neutrophil, eosinophil, monocyte (macrophage) · Lymphoid → natural killer cell, T lymphocyte, B lymphocyte (plasma cell)"
+      },
+      {
+       "name": "Hemopoietic Growth Factors",
+       "description": "stimulate blood cell formation."
+      },
+      {
+       "name": "Erythropoietin (EPO)",
+       "description": "stimulates RBCs; secreted by the kidneys."
+      },
+      {
+       "name": "Thrombopoietin",
+       "description": "stimulates platelets; secreted by the liver and kidneys."
+      },
+      {
+       "name": "Cytokines",
+       "description": "stimulate defense cells; made by different cells."
+      }
+     ]
+    },
+    {
+     "name": "Erythrocytes (Red Blood Cells)",
+     "items": [
+      {
+       "name": "Erythrocytes",
+       "description": "mature in the red bone marrow; transport blood gases, primarily oxygen and some carbon dioxide. RBCs make up about 1/3 of all cells in the human body."
+      },
+      {
+       "name": "Shape",
+       "description": "biconcave discs with very shallow centers; optimizes surface area to volume for gas exchange and lets them fold up in narrow blood vessels."
+      },
+      {
+       "name": "Hemoglobin",
+       "description": "iron-containing protein that binds with oxygen. One erythrocyte can contain 300 million hemoglobin molecules, so more than 1 billion oxygen molecules."
+      },
+      {
+       "name": "Erythropoiesis",
+       "description": "production of red blood cells; stimulated by EPO from the kidneys. Check with teacher: the slide says erythropoiesis is \"stimulated by an increase in the CO₂ level in the blood.\" Most textbooks teach that low oxygen (hypoxia) makes the kidneys release EPO."
+      },
+      {
+       "name": "Production Needs",
+       "description": "glucose, lipids, and amino acids, plus iron, copper, zinc, and B vitamins."
+      },
+      {
+       "name": "Life Span",
+       "description": "up to 120 days; worn-out cells are removed by macrophages."
+      },
+      {
+       "name": "RBC Breakdown",
+       "description": "iron is reabsorbed by the body; bilirubin is absorbed by the liver and helps form bile, giving it its yellow color. Bile emulsifies fat and gives feces its brown color · bilirubin can also be removed from blood into urine"
+      }
+     ]
+    },
+    {
+     "name": "Issues with Erythrocytes",
+     "items": [
+      {
+       "name": "Anemia",
+       "description": "ineffective hematopoiesis results in insufficient numbers of RBCs; with insufficient hemoglobin, tissues may not receive enough oxygen (hypoxemia). Depressed hematocrit"
+      },
+      {
+       "name": "Anemias from Faulty or Decreased RBC Production",
+       "description": "sickle cell anemia, iron deficiency anemia, vitamin deficiency anemia, and diseases of the bone marrow and stem cells."
+      },
+      {
+       "name": "Sickle Cell Anemia",
+       "description": "caused by a mutation in one of the hemoglobin genes; abnormal hemoglobin makes the cell take on a sickle or crescent shape."
+      },
+      {
+       "name": "Thalassemia",
+       "description": "genetic disorder with abnormal synthesis of globin proteins and excessive destruction of erythrocytes; patients are usually jaundiced with excessive bilirubin."
+      },
+      {
+       "name": "Jaundice",
+       "description": "yellowish discoloration of the skin, mucous membranes, and whites of the eyes (sclera), caused by elevated bilirubin in the blood (hyperbilirubinemia)."
+      },
+      {
+       "name": "Polycythemia",
+       "description": "overproduction of RBCs; the main drawback is increased viscosity of the blood, which makes it harder for the heart to circulate blood. Elevated hematocrit · polycythemia vera: bone marrow overproduces red blood cells, white blood cells and platelets"
+      }
+     ]
+    },
+    {
+     "name": "Leukocytes (White Blood Cells)",
+     "items": [
+      {
+       "name": "Leukocytes",
+       "description": "a major component of the body's defenses against disease; defend against pathogens (bacteria, viruses, parasites, tumors). Can move between blood and tissues · far less numerous, larger, and shorter life span than erythrocytes"
+      },
+      {
+       "name": "Emigration (Diapedesis)",
+       "description": "leukocytes leave the blood by squeezing through adjacent cells in a blood vessel wall. They follow chemical signals to the site of injury or infection."
+      },
+      {
+       "name": "Granular Leukocytes",
+       "description": "neutrophils, eosinophils, basophils; nonspecific immunity."
+      },
+      {
+       "name": "Neutrophils",
+       "description": "most commonly found; rapid responders; small in size; perform phagocytosis during an acute infection."
+      },
+      {
+       "name": "Eosinophils",
+       "description": "antihistamine feature; allergic and parasitic reactions."
+      },
+      {
+       "name": "Basophils",
+       "description": "least common; intensify inflammation. Release heparin (an anticoagulant)"
+      },
+      {
+       "name": "Agranular Leukocytes",
+       "description": "lymphocytes and monocytes."
+      },
+      {
+       "name": "Lymphocytes",
+       "description": "natural killer cells, B cells, and T cells; specific immunity."
+      },
+      {
+       "name": "Natural Killer Cells",
+       "description": "non-specific immunity; large cell; cytotoxic traits."
+      },
+      {
+       "name": "B Cells",
+       "description": "acquired immunity; produce plasma cells that produce plasma proteins (antibodies)."
+      },
+      {
+       "name": "T Cells",
+       "description": "acquired immunity; cell-mediated response."
+      },
+      {
+       "name": "Monocytes",
+       "description": "largest leukocyte; become macrophages; nonspecific immunity."
+      },
+      {
+       "name": "Macrophages",
+       "description": "phagocytic cells; high numbers in lymph nodes."
+      }
+     ]
+    },
+    {
+     "name": "Issues with Leukocytes",
+     "items": [
+      {
+       "name": "Leukopenia",
+       "description": "too few leukocytes are produced; if pronounced, the person may be unable to ward off disease. Most important nursing action shown on the slide: hand washing (infection prevention)"
+      },
+      {
+       "name": "Leukocytosis",
+       "description": "excessive leukocyte proliferation."
+      },
+      {
+       "name": "Leukemia",
+       "description": "cancer involving an abundance of leukocytes; may involve one type from the myeloid line (myelocytic leukemia) or the lymphoid line (lymphocytic leukemia)."
+      },
+      {
+       "name": "Lymphoma",
+       "description": "cancer in which masses of malignant T and/or B lymphocytes collect in lymph nodes, the spleen, the liver, and other tissues; the patient is vulnerable to infection. Some forms progress slowly and respond well to treatment; others progress quickly and need aggressive treatment."
+      }
+     ]
+    },
+    {
+     "name": "Thrombocytes (Platelets)",
+     "items": [
+      {
+       "name": "Platelets",
+       "description": "not actually cells, just fragments of cells (from megakaryocytes); needed for the clotting process. Life span of about 9–12 days"
+      },
+      {
+       "name": "Platelet Count",
+       "description": "low number means more bleeding; high number means clotting."
+      },
+      {
+       "name": "Functions",
+       "description": "essential for repairing damaged blood vessels; provide growth factors for healing and repair; cling to broken vessels or tissues to help control blood loss."
+      },
+      {
+       "name": "Thrombocytopenia",
+       "description": "insufficient number of platelets; blood may not clot properly, and excessive bleeding may result."
+      },
+      {
+       "name": "Thrombocytosis",
+       "description": "too many platelets; may trigger formation of unwanted blood clots (thrombosis), a potentially fatal disorder."
+      }
+     ]
+    },
+    {
+     "name": "Hemostasis (Stopping Bleeding)",
+     "items": [
+      {
+       "name": "1. Vascular Spasm (Vessel Constriction)",
+       "description": "smooth muscle in the walls of the vessel contracts dramatically."
+      },
+      {
+       "name": "2. Platelet Plug (Primary Hemostasis)",
+       "description": "platelets clump together, become spiked and sticky, and bind to the exposed collagen and endothelial lining."
+      },
+      {
+       "name": "3. Coagulation (Fibrin Clot Conversion)",
+       "description": "more durable repairs made beyond the plug; the formation of a blood clot."
+      },
+      {
+       "name": "Venospasm (IV Insertion)",
+       "description": "contraction of the vein as a protective mechanism; a consideration for both insertion and removal of IVs. Hold the site for a few moments after removal while a platelet plug forms."
+      }
+     ]
+    },
+    {
+     "name": "Coagulation Cascade",
+     "items": [
+      {
+       "name": "Intrinsic Pathway",
+       "description": "factors XII, XI, IX, VIII; measured by aPTT (activated partial thromboplastin time)."
+      },
+      {
+       "name": "Extrinsic Pathway",
+       "description": "tissue factor and factor VII; measured by PT (prothrombin time)."
+      },
+      {
+       "name": "Common Pathway",
+       "description": "factor X (with factor V, Ca++ and lipids) turns prothrombin (II) into thrombin; thrombin turns fibrinogen (I) into a fibrin clot (XIII)."
+      },
+      {
+       "name": "Components Needed for Clotting",
+       "description": "platelets, clotting factors, calcium (Ca++), lipids, prothrombin, fibrinogen."
+      }
+     ]
+    },
+    {
+     "name": "Anticoagulants and Fibrinolysis",
+     "items": [
+      {
+       "name": "Anticoagulant (Blood Thinner)",
+       "description": "any substance that opposes coagulation; slows the blood from clotting too quickly. Plasma anticoagulants limit clotting to the region of injury and restore a normal, clot-free condition of blood."
+      },
+      {
+       "name": "Protein C System",
+       "description": "inactivates clotting factors involved in the intrinsic pathway."
+      },
+      {
+       "name": "TFPI (Tissue Factor Pathway Inhibitor)",
+       "description": "inhibits the conversion of inactive factor VII to the active form in the extrinsic pathway."
+      },
+      {
+       "name": "Antithrombin",
+       "description": "inactivates factor X and opposes the conversion of prothrombin (factor II) to thrombin in the common pathway."
+      },
+      {
+       "name": "Heparin",
+       "description": "short-acting anticoagulant released by basophils that also opposes prothrombin; also found on cells lining the blood vessels. A pharmaceutical form is given to surgical patients at risk for blood clots."
+      },
+      {
+       "name": "Fibrinolysis",
+       "description": "the gradual degradation of the clot, to restore normal blood flow as the vessel heals."
+      },
+      {
+       "name": "Plasmin",
+       "description": "the active form of plasminogen; gradually breaks down the fibrin of the clot."
+      },
+      {
+       "name": "Bradykinin",
+       "description": "a vasodilator that reverses the effects of serotonin and prostaglandins from platelets, letting vessel smooth muscle relax and restoring circulation."
+      }
+     ]
+    },
+    {
+     "name": "Disorders of Clotting",
+     "items": [
+      {
+       "name": "Platelet Production",
+       "description": "either an insufficient or an excessive production of platelets can lead to severe disease or death."
+      },
+      {
+       "name": "Hemophilia",
+       "description": "genetic disorder of inadequate production of functional amounts of one or more clotting factors. Patients bleed from even minor wounds and leak blood into joint spaces after exercise and into urine and stool."
+      },
+      {
+       "name": "Thrombus (plural: thrombi)",
+       "description": "a blood clot that forms in a blood vessel; platelets, erythrocytes and WBCs trapped within a mass of fibrin strands. Can form in an intact or only slightly damaged vessel · impedes blood flow and raises local blood pressure, so the heart must pump harder"
+      },
+      {
+       "name": "Thrombosis",
+       "description": "a condition characterized by excessive numbers of platelets that increases the risk for excessive clot formation."
+      },
+      {
+       "name": "Thrombophilia (Hypercoagulation)",
+       "description": "a tendency to form thrombosis; may be familial (genetic) or acquired. Acquired: lupus, immune reactions to heparin, polycythemia vera, thrombocytosis, sickle cell disease, pregnancy, obesity"
+      },
+      {
+       "name": "Venous Stasis",
+       "description": "blood in the veins, particularly in the legs, remains stationary for long periods."
+      },
+      {
+       "name": "DVT (Deep Vein Thrombosis)",
+       "description": "a blood clot forms in a deep vein (back of the knee/calf); due to immobilization or after surgery; dangerous if a piece breaks off and travels to the heart/lungs. Signs: calf swelling, erythema (redness), and leg warmth"
+      },
+      {
+       "name": "Embolus",
+       "description": "a portion of a thrombus that breaks free from the vessel wall and enters the circulation (\"on the move!\")."
+      }
+     ]
+    },
+    {
+     "name": "Blood Typing",
+     "items": [
+      {
+       "name": "Blood Groups",
+       "description": "determined by the presence or absence of specific marker molecules on the plasma membranes of erythrocytes."
+      },
+      {
+       "name": "Antigens",
+       "description": "substances the body does not recognize as \"self\", which trigger a defensive response from the leukocytes."
+      },
+      {
+       "name": "ABO Blood Group",
+       "description": "designates the presence or absence of just two antigens (A and B). Normally the body must be exposed to an antigen before making antibodies, but ABO antibodies are preformed (no prior exposure needed)."
+      },
+      {
+       "name": "Type A",
+       "description": "A antigen; anti-B antibodies; compatible in an emergency: A, O."
+      },
+      {
+       "name": "Type B",
+       "description": "B antigen; anti-A antibodies; compatible in an emergency: B, O."
+      },
+      {
+       "name": "Type AB",
+       "description": "A and B antigens; no antibodies; compatible: A, B, AB, O (AB+ is the universal recipient)."
+      },
+      {
+       "name": "Type O",
+       "description": "no A or B antigens; anti-A and anti-B antibodies; compatible: O only (O is the universal donor)."
+      },
+      {
+       "name": "Rh Blood Group",
+       "description": "based on the presence or absence of a second erythrocyte antigen, Rh; Rh D antigen present = positive (+), absent = negative (–)."
+      }
+     ]
+    },
+    {
+     "name": "Body Fluids",
+     "items": [
+      {
+       "name": "Homeostasis",
+       "description": "maintenance of constant conditions in the body; substances in chemical reactions must stay within narrow ranges of concentration. Too much or too little of a single substance can disrupt bodily functions · water is the most common substance in the chemical reactions of life"
+      },
+      {
+       "name": "Fluid Compartment",
+       "description": "a location largely separate from another compartment by some form of physical barrier."
+      },
+      {
+       "name": "Intracellular Fluid (ICF)",
+       "description": "all fluid enclosed in cells by their plasma membranes; the principal component of the cytosol/cytoplasm. About 60% of total body water (about 25 L in an average adult male) – the largest compartment"
+      },
+      {
+       "name": "Extracellular Fluid (ECF)",
+       "description": "surrounds all cells in the body; made of plasma and interstitial fluid."
+      },
+      {
+       "name": "Interstitial Fluid (IF)",
+       "description": "surrounds all cells not in the blood; second largest volume. Materials travel between cells and the plasma in capillaries through the IF."
+      },
+      {
+       "name": "Plasma (ECF)",
+       "description": "the fluid component of the blood."
+      },
+      {
+       "name": "Fluid Intake (2600–3000 mL total)",
+       "description": "ingested water 1200–1500 mL · ingested food 800–1100 mL · metabolic oxidation 300 mL"
+      },
+      {
+       "name": "Fluid Output (2600–3000 mL total)",
+       "description": "kidneys 1500 mL · insensible loss through skin 600–800 mL · insensible loss through lungs 400–600 mL · GI tract 100 mL"
+      }
+     ]
+    },
+    {
+     "name": "Electrolytes: Normal Values",
+     "items": [
+      {
+       "name": "Sodium (Na+)",
+       "description": "135 to 145 mmol/L"
+      },
+      {
+       "name": "Potassium (K+)",
+       "description": "3.5 to 5.0 mmol/L"
+      },
+      {
+       "name": "Bicarbonate (HCO₃)",
+       "description": "21 to 28 mmol/L"
+      },
+      {
+       "name": "Magnesium (Mg)",
+       "description": "0.65 to 1.05 mmol/L"
+      },
+      {
+       "name": "Phosphorus (P)",
+       "description": "0.97 to 1.45 mmol/L"
+      },
+      {
+       "name": "Electrolyte Imbalances",
+       "description": "hypo-/hyper- natremia (sodium) · kalemia (potassium) · calcemia (calcium) · magnesemia (magnesium) · chloremia (chloride) · phosphatemia (phosphate)"
+      }
+     ]
+    },
+    {
+     "name": "Sodium",
+     "items": [
+      {
+       "name": "Sodium",
+       "description": "extracellular ion; regulates water movement (osmosis) across the cell membrane, as water moves from lower sodium concentration to higher concentration."
+      },
+      {
+       "name": "Hyponatremia",
+       "description": "low blood sodium (below 135). Mnemonic on slide, SALT LOSS: stupor/coma · anorexia (nausea & vomiting) · lethargy · tendon reflex · limp muscle (weakness) · orthostatic hypotension · seizures/headache · stomach cramping Check with teacher: the slide says \"sodium less than 145 mEq/L\" and lists water deprivation, thirst, and dry sticky mucous membranes. Those signs match hypernatremia, and since normal is 135–145, hyponatremia should be below 135."
+      },
+      {
+       "name": "Hypernatremia",
+       "description": "abnormal increase in blood sodium; can result from water loss from the blood (hemoconcentration). Symptoms: neuromuscular irritability, convulsions, CNS lethargy, coma · hormonal imbalances (ADH, aldosterone) raise sodium · Causes, MODEL: medications/meals (too much sodium), osmotic diuretics, diabetes insipidus, excessive water loss, low water intake"
+      }
+     ]
+    },
+    {
+     "name": "Potassium",
+     "items": [
+      {
+       "name": "Potassium (K+)",
+       "description": "major intracellular ion; helps establish the resting membrane potential in neurons and muscle fibres. Little effect on osmotic pressure · excreted actively and passively through the kidney (renal tubules)"
+      },
+      {
+       "name": "Hyperkalemia",
+       "description": "elevated K+ blood level, above 5.5 mEq/L. Causes: increased dietary intake; K+ entering the ECF in high concentrations · Symptoms: impairs skeletal muscle, nervous system, and heart; mental confusion, numbness, weakened respiratory muscles Check with teacher: the normal range slide says 3.5–5.0, but this slide uses \"above 5.5.\" Ask which cut-off the exam uses."
+      },
+      {
+       "name": "Hypokalemia",
+       "description": "K+ below 3.5 mEq/L. Causes: reduced K+ in the body or blood (redistribution), decreased intake (starvation), vomiting, diarrhea, alkalosis · Symptoms: alkalosis, ECG changes, cardiac arrhythmias, muscle weakness, paresthesia, leg cramps, fatigue, lethargy, anorexia, nausea, vomiting, decreased bowel sounds and motility"
+      }
+     ]
+    },
+    {
+     "name": "Calcium and Magnesium",
+     "items": [
+      {
+       "name": "Calcium",
+       "description": "most plentiful electrolyte in the body; used to form bones; mainly absorbed and excreted through the GI system. Mostly extracellular; crucial for neurons, muscle cells, enzymes, and coagulation · regulated by the parathyroid gland with parathyroid hormone (PTH)"
+      },
+      {
+       "name": "Magnesium",
+       "description": "mostly found in the bones and within cells; important in control of metabolism and numerous enzyme reactions."
+      },
+      {
+       "name": "Hypermagnesemia",
+       "description": "serum magnesium above 2.5 mg/dL. Causes: abnormal kidney function, antacids or laxatives with magnesium · Symptoms: mild – nausea, flushing, tiredness; decreased deep tendon reflexes; severe – paralysis, respiratory failure, bradycardia → cardiac arrest · Treatment: stop the magnesium source (if kidneys normal), diuretic, dialysis"
+      },
+      {
+       "name": "Hypomagnesemia",
+       "description": "low serum magnesium. Causes: GI losses (vomiting, diarrhea), diuretics, alcohol use, hypercalcemia, genetic disorders, low dietary intake · Symptoms: usually with other electrolyte imbalances; severe – arrhythmias, seizures, tetany · Treatment: magnesium orally or IV; treat other deficiencies"
+      }
+     ]
+    },
+    {
+     "name": "Acid–Base Balance",
+     "items": [
+      {
+       "name": "pH",
+       "description": "low pH = acidic (high H+); high pH = alkaline (low H+); 7 = neutral."
+      },
+      {
+       "name": "Normal Body pH",
+       "description": "7.35–7.45. Acidosis below 7.35 · alkalosis above 7.45 · death below 6.8 or above 7.8"
+      },
+      {
+       "name": "Regulated By",
+       "description": "buffers, respiratory system, renal system."
+      },
+      {
+       "name": "Factors Affecting Fluid, Electrolyte and Acid–Base Balance",
+       "description": "age, gender, body size, environmental temperature, lifestyle, chronic diseases, acute conditions, medications, treatments, extremes of age, inability to access food and fluids."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Module 4 · Cardiovascular System",
+   "course": "PN Structure and Function of the Human Body · NRSG-10159",
+   "topics": "The Heart (Chapter 19) · Conduction · Cardiac Cycle · Cardiac Output · Blood Vessels · Blood Pressure · Pulses",
+   "groups": [
+    {
+     "name": "The Heart: Overview and Location",
+     "items": [
+      {
+       "name": "Location",
+       "description": "mediastinum within the thoracic cavity, between the lungs; within the pericardial sac."
+      },
+      {
+       "name": "Orientation",
+       "description": "dorsal surface near vertebrae; anterior surface deep to sternum and costal cartilages; great veins and arteries attached to the superior surface (base). Right side deflects forward, left side deflects backward."
+      },
+      {
+       "name": "Base of the Heart",
+       "description": "level of the third costal cartilage."
+      },
+      {
+       "name": "Apex of the Heart",
+       "description": "positioned just left of the sternum, between the fourth and fifth ribs. Apex's leftward deviation creates a cardiac notch in the left lung."
+      },
+      {
+       "name": "Clinical Relevance",
+       "description": "location is important for stethoscope placement and imaging."
+      },
+      {
+       "name": "Heart Shape",
+       "description": "inverted pear, wider at the top, narrowing toward the apex."
+      },
+      {
+       "name": "Average Size",
+       "description": "length 12 cm (5 in), width 8 cm (3.5 in), thickness 6 cm (2.5 in); about the size of your fist."
+      },
+      {
+       "name": "Sex Difference",
+       "description": "female heart 250–300 grams (9 to 11 oz); male heart 300–350 grams (11 to 12 oz)."
+      },
+      {
+       "name": "Exercise Adaptation",
+       "description": "athletes' hearts can enlarge due to exercise-induced hypertrophy."
+      },
+      {
+       "name": "Hypertrophic Cardiomyopathy",
+       "description": "can cause dangerous heart enlargement and sudden death in apparently healthy young individuals."
+      }
+     ]
+    },
+    {
+     "name": "Heart Wall Layers and Pericardium",
+     "items": [
+      {
+       "name": "Epicardium",
+       "description": "outermost layer, also known as the visceral pericardium; composed of a mesothelium reinforced with connective tissue; secretes serous fluid that lubricates the pericardial cavity."
+      },
+      {
+       "name": "Myocardium",
+       "description": "middle and thickest layer, primarily composed of cardiac muscle cells; responsible for heart contractions, pumping blood into major arteries. Supported by collagenous fibers, blood vessels, and nerve fibers"
+      },
+      {
+       "name": "Endocardium",
+       "description": "deepest layer lining the heart's chambers, consisting of endothelial tissue."
+      },
+      {
+       "name": "Pericardium",
+       "description": "surrounds the heart and the roots of the major vessels, forming the pericardial cavity; fibrous (protective) and serous (inner) layers."
+      },
+      {
+       "name": "Pericardial Sac",
+       "description": "two fused layers: outer fibrous capsule and inner parietal pericardium with a serous membrane. Serous pericardium = parietal pericardium + visceral pericardium"
+      },
+      {
+       "name": "Pericardial Cavity",
+       "description": "filled with lubricating serous fluid, reducing friction during heart contractions."
+      }
+     ]
+    },
+    {
+     "name": "Chambers and Great Vessels",
+     "items": [
+      {
+       "name": "Atria",
+       "description": "receiving chambers (right atrium, left atrium)."
+      },
+      {
+       "name": "Ventricles",
+       "description": "discharging chambers (right ventricle, left ventricle); pump blood into vessels."
+      },
+      {
+       "name": "Right Atrium",
+       "description": "receives blood from vena cava and coronary sinus; maintains constant blood flow."
+      },
+      {
+       "name": "Right Ventricle",
+       "description": "receives blood via tricuspid valve; pushes blood to the pulmonary trunk."
+      },
+      {
+       "name": "Left Atrium",
+       "description": "gets oxygen-rich blood from pulmonary veins; serves as a receiving chamber for the left ventricle."
+      },
+      {
+       "name": "Left Ventricle",
+       "description": "thicker muscle layer; pumps blood to the aorta."
+      },
+      {
+       "name": "Vena Cava (superior and inferior)",
+       "description": "carries blood to the heart (right atrium)."
+      },
+      {
+       "name": "Pulmonary Artery",
+       "description": "carries blood away from the heart to the lungs."
+      },
+      {
+       "name": "Pulmonary Veins",
+       "description": "return blood from the lungs to the heart (left atrium)."
+      },
+      {
+       "name": "Aorta",
+       "description": "carries blood to the body."
+      }
+     ]
+    },
+    {
+     "name": "Heart Circulation",
+     "items": [
+      {
+       "name": "Pulmonary Circuit",
+       "description": "sends blood to the lungs for oxygenation."
+      },
+      {
+       "name": "Systemic Circuit",
+       "description": "distributes oxygenated blood to body tissues."
+      },
+      {
+       "name": "Dual Pump",
+       "description": "the heart operates in both circuits; atria receive and ventricles pump blood."
+      },
+      {
+       "name": "Blood Flow",
+       "description": "right ventricle pumps deoxygenated blood to lungs → oxygenated blood returns to the left atrium → left ventricle sends oxygenated blood into the body."
+      },
+      {
+       "name": "Return to Heart",
+       "description": "deoxygenated blood from body tissues returns through veins to superior and inferior vena cavae, then back to the right atrium."
+      },
+      {
+       "name": "Vessel Order",
+       "description": "arteries → arterioles → capillaries → venules → veins → back to the heart."
+      }
+     ]
+    },
+    {
+     "name": "Heart Valves",
+     "items": [
+      {
+       "name": "Tricuspid Valve (Right AV Valve)",
+       "description": "between the right atrium and right ventricle; three leaflets of endocardium; prevents backflow from right ventricle to right atrium. Connected to papillary muscles by chordae tendineae, which control opening and closing"
+      },
+      {
+       "name": "Pulmonary Valve (Pulmonary Semilunar Valve)",
+       "description": "at the base of the pulmonary trunk; three flaps; prevents backflow from the pulmonary trunk into the right ventricle. No chordae tendineae or papillary muscles; blood filling the flaps causes closure"
+      },
+      {
+       "name": "Mitral Valve (Bicuspid, Left AV Valve)",
+       "description": "between the left atrium and left ventricle; two cusps; prevents backflow from left ventricle to left atrium. Cusps connected to papillary muscles by chordae tendineae"
+      },
+      {
+       "name": "Aortic Valve (Aortic Semilunar Valve)",
+       "description": "at the base of the aorta; three flaps; prevents backflow from the aorta into the left ventricle. Blood filling the cusps during ventricular relaxation causes closure"
+      },
+      {
+       "name": "Chordae Tendineae",
+       "description": "connect AV valve cusps to papillary muscles and control the opening and closing."
+      }
+     ]
+    },
+    {
+     "name": "Coronary Arteries",
+     "items": [
+      {
+       "name": "Coronary Arteries",
+       "description": "supply blood to the heart muscle; arise from the first section of the aorta, just after the left ventricle."
+      },
+      {
+       "name": "Left Coronary Artery (LCA)",
+       "description": "supplies the left atrium, left ventricle, and interventricular septum; arises from the left posterior aortic sinus. Branches: circumflex artery (Cx) and anterior interventricular artery (LAD)"
+      },
+      {
+       "name": "Right Coronary Artery (RCA)",
+       "description": "supplies the right atrium, portions of both ventricles, and the heart's conduction system; arises from the anterior aortic sinus. Branches: marginal arteries and posterior interventricular artery (posterior descending artery)"
+      },
+      {
+       "name": "Anastomoses",
+       "description": "interconnecting smaller vessels that help maintain blood circulation in case of partial blockages."
+      },
+      {
+       "name": "Blockage Consequences",
+       "description": "can lead to myocardial infarction (cell death) in the affected area due to limited bypass capacity."
+      }
+     ]
+    },
+    {
+     "name": "Clinical Connections: CPR and Cardiac Tamponade",
+     "items": [
+      {
+       "name": "CPR (Cardiopulmonary Resuscitation)",
+       "description": "the heart's position in the torso allows CPR; manual chest compressions maintain blood flow."
+      },
+      {
+       "name": "Cardiac Tamponade",
+       "description": "excess fluid in the pericardial space hampers heart relaxation; gradual buildup can accommodate volume or swiftly trigger tamponade. Causes: myocardial rupture, pericarditis, cancer, or post-surgery complications · untreated can be fatal"
+      },
+      {
+       "name": "Tamponade Treatment",
+       "description": "drainage tubes inserted to remove excess fluid. Premature tube removal or clot formation post-surgery can cause this condition."
+      }
+     ]
+    },
+    {
+     "name": "Cardiac Muscle Cells",
+     "items": [
+      {
+       "name": "Smaller Cells",
+       "description": "cardiac muscle cells are generally smaller than skeletal muscle cells."
+      },
+      {
+       "name": "Striations",
+       "description": "striped (striated) appearance, like skeletal muscle, due to the organized arrangement of protein filaments."
+      },
+      {
+       "name": "Autorhythmicity",
+       "description": "pacemaker cells can generate action potentials spontaneously without nervous system input."
+      },
+      {
+       "name": "Energy Supply",
+       "description": "many mitochondria, providing the energy needed for continuous and strong contractions."
+      },
+      {
+       "name": "Nuclei",
+       "description": "single nucleus, unlike skeletal muscle cells which can have multiple nuclei."
+      },
+      {
+       "name": "Intercalated Discs",
+       "description": "connect cardiac muscle cells (shown on the diagram with desmosomes and gap junctions)."
+      },
+      {
+       "name": "Myocardial Contractile Cells",
+       "description": "majority (99%) of cells in the atria and ventricles; responsible for heart contractions, pumping blood."
+      },
+      {
+       "name": "Myocardial Conducting Cells",
+       "description": "small percentage (1%) of cells; form the heart's conduction system; initiate and propagate the electrical impulse (action potential). Function similar to neurons, despite being specialized muscle cells"
+      },
+      {
+       "name": "Pacemaker Cells",
+       "description": "specialized cells controlling heart rate (autorhythmicity); controlled by the autonomic nervous system (ANS) and responsive to hormones."
+      }
+     ]
+    },
+    {
+     "name": "Conduction System",
+     "items": [
+      {
+       "name": "SA (Sinoatrial) Node",
+       "description": "natural pacemaker of the heart (primary pacemaker); small group of specialized cells in the upper wall of the right atrium. Generates impulses that set the rhythm (60–100 beats per minute) · initiates atrial contraction · spreads the signal through the atria"
+      },
+      {
+       "name": "AV (Atrioventricular) Node",
+       "description": "secondary pacemaker; in the lower part of the interatrial septum, near the coronary sinus above the tricuspid valve; regulates the flow of electrical signals between the atria and ventricles. Briefly delays the impulse for effective ventricular pumping"
+      },
+      {
+       "name": "Bundle of His",
+       "description": "carries the impulse from the AV node to the bundle branches."
+      },
+      {
+       "name": "Bundle Branches (Right and Left)",
+       "description": "together with Purkinje fibers, coordinate ventricular contractions."
+      },
+      {
+       "name": "Purkinje Fibers",
+       "description": "spread the impulse through the ventricles, coordinating ventricular contraction."
+      }
+     ]
+    },
+    {
+     "name": "Cardiac Cycle",
+     "items": [
+      {
+       "name": "Systole",
+       "description": "contraction period when the heart pumps blood."
+      },
+      {
+       "name": "Diastole",
+       "description": "relaxation period when the chambers fill with blood."
+      },
+      {
+       "name": "Relaxed Start",
+       "description": "both atria and ventricles are relaxed (diastole); blood flows into the atria; AV valves open; semilunar valves closed."
+      },
+      {
+       "name": "Atrial Systole",
+       "description": "following atrial depolarization (P wave), atrial muscles contract, pushing blood into the ventricles. Contributes 20–30% of ventricular filling · lasts about 100 ms"
+      },
+      {
+       "name": "Ventricular Systole",
+       "description": "two phases: isovolumic contraction and ventricular ejection."
+      },
+      {
+       "name": "Isovolumic Contraction",
+       "description": "increases ventricular pressure, but no ejection yet."
+      },
+      {
+       "name": "Ventricular Ejection",
+       "description": "pressure rises to open semilunar valves and pump blood. Stroke volume around 70–80 mL"
+      },
+      {
+       "name": "End Systolic Volume (ESV)",
+       "description": "approximately 50–60 mL of blood remaining in the ventricle."
+      },
+      {
+       "name": "Ventricular Diastole",
+       "description": "two phases: isovolumic relaxation (early) and late diastole."
+      },
+      {
+       "name": "Isovolumic Relaxation",
+       "description": "pressure drops without volume change."
+      },
+      {
+       "name": "Late Diastole (Ventricular Filling)",
+       "description": "pressure drops below atrial pressure; blood flows from atria to ventricles; AV valves open and both chambers are in diastole."
+      }
+     ]
+    },
+    {
+     "name": "Heart Sounds and Auscultation",
+     "items": [
+      {
+       "name": "Auscultation",
+       "description": "a method used to listen to sounds of the body during a physical examination."
+      },
+      {
+       "name": "S1 (\"lub\")",
+       "description": "closure of atrioventricular valves during ventricular contraction."
+      },
+      {
+       "name": "S2 (\"dub\")",
+       "description": "closure of semilunar valves during ventricular diastole."
+      },
+      {
+       "name": "S3 (\"Kentucky gallop\")",
+       "description": "occurs rarely in healthy individuals, possibly due to blood flow or tensing of chordae tendineae; indication of heart failure if heard later in life."
+      },
+      {
+       "name": "S4 (\"Tennessee gallop\")",
+       "description": "due to atrial contraction forcing blood into a stiff or hypertrophic ventricle; indicates left ventricular failure if occurring before S1."
+      },
+      {
+       "name": "S3 + S4 Combined",
+       "description": "occurs in some individuals with both S3 and S4. Check with teacher: the slide calls this \"S7.\" There is no S7 heart sound; when S3 and S4 are both heard it is usually called a summation gallop."
+      },
+      {
+       "name": "Murmurs",
+       "description": "unusual sounds due to turbulent blood flow, often caused by valve problems. Incompetent valves cause a \"swish\"; stiff valves give a high-pitched sound · graded on a scale of 1 to 6 · detected with phonocardiograms or auscultograms"
+      },
+      {
+       "name": "Aortic Area",
+       "description": "2nd ICS (intercostal space) to the right sternal border."
+      },
+      {
+       "name": "Pulmonic Area",
+       "description": "2nd ICS to the left sternal border."
+      },
+      {
+       "name": "Erb's Point",
+       "description": "3rd ICS to the left sternal border."
+      },
+      {
+       "name": "Tricuspid Area",
+       "description": "5th ICS to the lower left sternal border."
+      },
+      {
+       "name": "Mitral Area",
+       "description": "apex, PMI (point of maximum impulse) and 5th ICS at MCL (midclavicular line)."
+      }
+     ]
+    },
+    {
+     "name": "Cardiac Output",
+     "items": [
+      {
+       "name": "Cardiac Output (CO)",
+       "description": "how much blood the heart pumps in one minute. CO = HR × SV"
+      },
+      {
+       "name": "Heart Rate (HR)",
+       "description": "how many times the heart beats in one minute; around 75 bpm with a range of 60–100."
+      },
+      {
+       "name": "Stroke Volume (SV)",
+       "description": "measured using echocardiogram or specialized catheter; typically averages about 70 mL. SV = End Diastolic Volume (EDV) – End Systolic Volume (ESV) · normal range 55–100 mL"
+      },
+      {
+       "name": "Compensation",
+       "description": "if SV decreases, CO can be maintained by increasing HR."
+      },
+      {
+       "name": "Factors Affecting HR",
+       "description": "autonomic innervation, hormones, fitness levels, age."
+      },
+      {
+       "name": "Factors Affecting SV",
+       "description": "heart size, fitness levels, gender, contractility, duration of contraction, preload (EDV), afterload (resistance)."
+      },
+      {
+       "name": "Increased Output",
+       "description": "elevated heart rate or stroke volume; triggered by sympathetic stimulation, catecholamines, thyroid hormones, and increased calcium levels."
+      },
+      {
+       "name": "Reduced Output",
+       "description": "reduced heart rate or stroke volume; influenced by parasympathetic stimulation, changes in potassium or calcium levels, anoxia, and acidosis."
+      }
+     ]
+    },
+    {
+     "name": "Factors Changing Heart Rate and Force of Contraction",
+     "items": [
+      {
+       "name": "Autonomic Nerves",
+       "description": "Increase: cardioaccelerator nerves release norepinephrine · Decrease: cardioinhibitor nerves (vagus) release acetylcholine"
+      },
+      {
+       "name": "Proprioreceptors",
+       "description": "Increase: increased firing during exercise · Decrease: decreased firing following exercise"
+      },
+      {
+       "name": "Chemoreceptors",
+       "description": "Increase: decreased O₂; increased H+, CO₂ and lactic acid · Decrease: increased O₂; decreased H+ and CO₂"
+      },
+      {
+       "name": "Baroreceptors",
+       "description": "Increase: decreased firing (falling blood volume/pressure) · Decrease: increased firing (higher blood volume/pressure)"
+      },
+      {
+       "name": "Limbic System",
+       "description": "Increase: anticipation of physical exercise or strong emotions · Decrease: anticipation of relaxation"
+      },
+      {
+       "name": "Catecholamines",
+       "description": "Increase: increased epinephrine and norepinephrine · Decrease: decreased epinephrine and norepinephrine"
+      },
+      {
+       "name": "Thyroid Hormones",
+       "description": "Increase: increased T₃ and T₄ · Decrease: decreased T₃ and T₄"
+      },
+      {
+       "name": "Calcium",
+       "description": "Increase: increased Ca²⁺ · Decrease: decreased Ca²⁺"
+      },
+      {
+       "name": "Potassium",
+       "description": "Increase: decreased K+ · Decrease: increased K+"
+      },
+      {
+       "name": "Sodium",
+       "description": "Increase: decreased Na+ · Decrease: increased Na+"
+      },
+      {
+       "name": "Body Temperature",
+       "description": "Increase: increased body temperature · Decrease: decreased body temperature"
+      },
+      {
+       "name": "Nicotine and Caffeine",
+       "description": "stimulants, increasing heart rate."
+      }
+     ]
+    },
+    {
+     "name": "Nervous Control of Heart Rate",
+     "items": [
+      {
+       "name": "Medulla Oblongata",
+       "description": "controls heart rate via the cardiovascular centres."
+      },
+      {
+       "name": "Proprioreceptors",
+       "description": "detect physical activity; increase HR for more blood flow."
+      },
+      {
+       "name": "Baroreceptors",
+       "description": "sense blood pressure changes; adjust HR to maintain balance."
+      },
+      {
+       "name": "Chemoreceptors",
+       "description": "monitor chemical changes (like CO₂ levels); adjust HR for proper blood flow."
+      },
+      {
+       "name": "Emotional Impact",
+       "description": "stress and anxiety can increase HR; relaxation techniques (deep breathing, meditation) can lower HR."
+      }
+     ]
+    },
+    {
+     "name": "Blood Vessels",
+     "items": [
+      {
+       "name": "Arteries",
+       "description": "transport blood away from the heart; thick walls (round in cross-section); branch into arterioles."
+      },
+      {
+       "name": "Arterioles",
+       "description": "distribute blood to capillary beds where exchange with body tissues occurs."
+      },
+      {
+       "name": "Capillaries",
+       "description": "microscopic vessels where exchange of nutrients and wastes occurs; connect to venules."
+      },
+      {
+       "name": "Venules",
+       "description": "continuous with the post-capillary venules; move blood away from the capillary beds; many venules unite to form a vein."
+      },
+      {
+       "name": "Veins",
+       "description": "return deoxygenated blood from the capillaries to the heart (except the pulmonary veins)."
+      },
+      {
+       "name": "Arterial System",
+       "description": "high-pressure, thick-walled arteries; smaller lumens maintain blood pressure."
+      },
+      {
+       "name": "Venous System",
+       "description": "low-pressure, larger-lumen veins with thinner walls; valves (especially in limb veins) aid blood flow towards the heart."
+      },
+      {
+       "name": "Tunica Intima",
+       "description": "innermost layer of the vessel wall."
+      },
+      {
+       "name": "Tunica Media",
+       "description": "middle layer containing smooth muscle and elastic fibers."
+      },
+      {
+       "name": "Tunica Externa",
+       "description": "outermost layer providing structural support."
+      },
+      {
+       "name": "Systemic Circuit (vessels)",
+       "description": "arteries supply oxygen-rich blood to body tissues; veins return blood with less oxygen."
+      },
+      {
+       "name": "Pulmonary Circuit (vessels)",
+       "description": "arteries carry blood low in oxygen to the lungs; pulmonary veins return oxygenated blood to the heart."
+      }
+     ]
+    },
+    {
+     "name": "Comparison of Arteries and Veins",
+     "items": [
+      {
+       "name": "Direction of Blood Flow",
+       "description": "Arteries: away from the heart · Veins: toward the heart"
+      },
+      {
+       "name": "General Appearance",
+       "description": "Arteries: rounded · Veins: irregular, often collapsed"
+      },
+      {
+       "name": "Pressure",
+       "description": "Arteries: high · Veins: low"
+      },
+      {
+       "name": "Wall Thickness",
+       "description": "Arteries: thick · Veins: thin"
+      },
+      {
+       "name": "Relative Oxygen Concentration",
+       "description": "Arteries: higher in systemic arteries, lower in pulmonary arteries · Veins: lower in systemic veins, higher in pulmonary veins"
+      },
+      {
+       "name": "Valves",
+       "description": "Arteries: not present · Veins: present most commonly in limbs and in veins inferior to the heart"
+      }
+     ]
+    },
+    {
+     "name": "Blood Pressure and Blood Flow",
+     "items": [
+      {
+       "name": "Initiation",
+       "description": "blood flow begins with heart ventricle contractions; affected by resistance and hydrostatic pressure."
+      },
+      {
+       "name": "Systolic Pressure",
+       "description": "pressure during heart contraction."
+      },
+      {
+       "name": "Diastolic Pressure",
+       "description": "pressure during relaxation."
+      },
+      {
+       "name": "Pulse Pressure",
+       "description": "the difference between systolic and diastolic pressures, typically at least 25% of systolic pressure."
+      },
+      {
+       "name": "Mean Arterial Pressure (MAP)",
+       "description": "average pressure in arteries; MAP ≈ diastolic BP + (systolic BP – diastolic BP) / 3."
+      },
+      {
+       "name": "Sphygmomanometer Technique",
+       "description": "developed by Dr. Nikolai Korotkoff; cuff wrapped around the arm at heart level, inflated to halt blood flow, then air slowly released while listening at the anterior elbow."
+      },
+      {
+       "name": "Korotkoff Sounds",
+       "description": "five recognized sounds, but typically only two are recorded. First sound heard = systolic pressure · sounds disappear when the vessel fully opens = diastolic pressure"
+      },
+      {
+       "name": "Compliance",
+       "description": "the capacity of vessels to expand and accommodate blood. Better compliance reduces resistance and pressure · stiffened arteries increase resistance, turbulence, pressure, and the heart's workload"
+      },
+      {
+       "name": "Viscosity",
+       "description": "higher viscosity increases resistance and reduces flow (hematocrit)."
+      },
+      {
+       "name": "Vessel Length",
+       "description": "longer vessels increase resistance; shorter ones reduce resistance."
+      },
+      {
+       "name": "Vessel Diameter",
+       "description": "vasoconstriction or vasodilation significantly alters resistance and flow. Narrower vessel = more resistance; wider vessel = less resistance"
+      }
+     ]
+    },
+    {
+     "name": "Pulses",
+     "items": [
+      {
+       "name": "Pulse Mechanics",
+       "description": "arterial elastic fibers create the pulse by expanding and recoiling."
+      },
+      {
+       "name": "Pulse Measurement",
+       "description": "recorded as beats per minute by lightly pressing (palpating) accessible arteries close to the body surface; indicates heart rate and health status."
+      },
+      {
+       "name": "Pulse Strength",
+       "description": "reflects cardiac output; strong pulse indicates high systolic pressure."
+      },
+      {
+       "name": "Pulse Sites (head to foot)",
+       "description": "temporal, facial, common carotid, brachial, radial, femoral, popliteal, posterior tibial, dorsalis pedis arteries."
+      },
+      {
+       "name": "Common Palpation Sites",
+       "description": "wrist (radial artery), neck (common carotid)."
+      }
+     ]
+    },
+    {
+     "name": "Regulation and Blood Flow Redistribution",
+     "items": [
+      {
+       "name": "Neural Regulation",
+       "description": "brain's cardiovascular centers control cardiac and vascular functions."
+      },
+      {
+       "name": "Baroreceptor Reflexes",
+       "description": "specialized receptors in blood vessels regulate blood pressure."
+      },
+      {
+       "name": "Chemoreceptor Reflexes",
+       "description": "monitor oxygen, carbon dioxide and pH levels."
+      },
+      {
+       "name": "Endocrine Regulation",
+       "description": "hormonal control influences heart rate, vessel tone and fluid balance."
+      },
+      {
+       "name": "Autoregulation of Perfusion",
+       "description": "local mechanisms adjust blood flow based on tissue needs."
+      },
+      {
+       "name": "Blood Flow Redistribution",
+       "description": "the cardiovascular system reallocates blood flow to maintain homeostasis and meet tissue metabolic needs."
+      },
+      {
+       "name": "During Exercise",
+       "description": "more blood to skeletal muscles, heart and lungs; skin (integumentary) gets more blood flow to dissipate excess heat."
+      },
+      {
+       "name": "Post-Meal",
+       "description": "blood directed to digestive system for nutrient absorption and digestion."
+      },
+      {
+       "name": "Brain",
+       "description": "receives consistent blood supply regardless of activity."
+      }
+     ]
+    },
+    {
+     "name": "Circulatory Shock",
+     "items": [
+      {
+       "name": "Hypovolemic Shock",
+       "description": "due to severe blood loss or fluid reduction. Symptoms: rapid heart rate, weak pulse, cool skin · treated with IV fluids and pressure-increasing drugs"
+      },
+      {
+       "name": "Cardiogenic Shock",
+       "description": "results from heart failure or heart attack; treatment focuses on repairing heart damage."
+      },
+      {
+       "name": "Vascular Shock",
+       "description": "arterioles excessively dilate; treatments involve fluid replacement and medication."
+      },
+      {
+       "name": "Obstructive Shock",
+       "description": "caused by vascular blockages; treatments include fluids, anticoagulants, or surgery. Causes: pulmonary embolism, valve stenosis, cardiac tamponade, or pneumothorax"
+      }
+     ]
+    },
+    {
+     "name": "Circulatory System and Other Body Systems",
+     "items": [
+      {
+       "name": "Digestive",
+       "description": "absorbs nutrients and water; delivers nutrients to the liver via the hepatic portal vein; provides nutrients for hematopoiesis and building hemoglobin."
+      },
+      {
+       "name": "Endocrine",
+       "description": "delivers hormones (atrial natriuretic hormone, epinephrine, angiotensin II, ADH, thyroxine) to help regulate blood volume and pressure."
+      },
+      {
+       "name": "Integumentary",
+       "description": "carries clotting factors, platelets, and WBCs; regulates temperature by controlling blood flow to the surface; acts as a blood reservoir."
+      },
+      {
+       "name": "Lymphatic",
+       "description": "transports WBCs and antibodies; excess tissue fluid not reabsorbed by capillaries goes back to the lymphatic system."
+      },
+      {
+       "name": "Muscular",
+       "description": "provides nutrients and oxygen for contraction; removes lactic acid; muscular pumps aid venous return."
+      },
+      {
+       "name": "Nervous",
+       "description": "produces CSF within choroid plexuses; contributes to blood–brain barrier; cardiac and vasomotor centers regulate cardiac output and blood flow."
+      },
+      {
+       "name": "Reproductive",
+       "description": "aids in erection of genitalia; transports gonadotropic hormones."
+      },
+      {
+       "name": "Respiratory",
+       "description": "provides blood for exchange of gases (oxygen in, carbon dioxide out)."
+      },
+      {
+       "name": "Skeletal",
+       "description": "provides calcium, phosphate and minerals for bone matrix; transports hormones; erythropoietin stimulates myeloid cell hematopoiesis."
+      },
+      {
+       "name": "Urinary",
+       "description": "delivers 20% of resting circulation to kidneys for filtering; regulates blood volume and pressure; renin for the renin-angiotensin-aldosterone mechanism."
+      }
+     ]
+    },
+    {
+     "name": "The Aorta and Its Branches",
+     "items": [
+      {
+       "name": "Aorta",
+       "description": "the largest artery in the body; originates from the left ventricle; bifurcates into the common iliac arteries at the 4th lumbar vertebra. Distributes oxygenated blood to virtually all tissues · contains the aortic semilunar valve to prevent backflow into the left ventricle"
+      },
+      {
+       "name": "Ascending Aorta",
+       "description": "extends upward from the heart (~5 cm)."
+      },
+      {
+       "name": "Aortic Arch",
+       "description": "curves leftward; ends between the 4th and 5th thoracic vertebrae."
+      },
+      {
+       "name": "Thoracic Aorta",
+       "description": "descending aorta above the diaphragm."
+      },
+      {
+       "name": "Abdominal Aorta",
+       "description": "descending aorta below the diaphragm; terminates at the 4th lumbar vertebra where it bifurcates."
+      },
+      {
+       "name": "Aortic Arch Branches (3)",
+       "description": "brachiocephalic artery (branches into right subclavian and right common carotid), left common carotid artery, left subclavian artery."
+      },
+      {
+       "name": "Subclavian Artery Branches",
+       "description": "internal thoracic (thymus, pericardium, anterior chest wall), vertebral (brain and spinal cord), thyrocervical (thyroid, neck, upper back, shoulder)."
+      },
+      {
+       "name": "External Carotid Artery",
+       "description": "supplies face, lower jaw, neck, esophagus, larynx."
+      },
+      {
+       "name": "Internal Carotid Artery",
+       "description": "supplies brain; contains carotid sinus with baroreceptors and chemoreceptors."
+      },
+      {
+       "name": "Blood Supply to the Brain",
+       "description": "internal carotid and vertebral arteries are the primary suppliers; they form the arterial circle (circle of Willis) for uninterrupted blood supply."
+      }
+     ]
+    },
+    {
+     "name": "Arteries and Veins of the Body (Diagram Labels)",
+     "items": [
+      {
+       "name": "Arteries: Head, Neck and Chest",
+       "description": "vertebral, right and left common carotid, right and left subclavian, brachiocephalic trunk, aortic arch, ascending aorta, descending aorta, pulmonary trunk, axillary."
+      },
+      {
+       "name": "Arteries: Abdomen and Pelvis",
+       "description": "celiac trunk, renal, superior mesenteric, gonadal, inferior mesenteric, common iliac, internal iliac, external iliac."
+      },
+      {
+       "name": "Arteries: Arms",
+       "description": "brachial, radial, ulnar, palmar arches."
+      },
+      {
+       "name": "Arteries: Legs",
+       "description": "femoral, deep femoral, descending genicular, popliteal, anterior tibial, posterior tibial, fibular, dorsalis pedis, plantar arch."
+      },
+      {
+       "name": "Veins: Head, Neck and Chest",
+       "description": "external jugular, internal jugular, subclavian, brachiocephalic, superior vena cava, intercostal."
+      },
+      {
+       "name": "Veins: Abdomen and Pelvis",
+       "description": "hepatic, inferior vena cava, renal, gonadal, lumbar, right and left common iliac, external iliac, internal iliac."
+      },
+      {
+       "name": "Veins: Arms",
+       "description": "axillary, cephalic, brachial, basilic, median cubital, radial, median antebrachial, ulnar, palmar venous arches, digital."
+      },
+      {
+       "name": "Veins: Legs",
+       "description": "femoral, deep femoral, great saphenous, popliteal, small saphenous, fibular, anterior tibial, posterior tibial, plantar venous arch, dorsal venous arch."
+      }
+     ]
+    },
+    {
+     "name": "Development of Blood Vessels and Fetal Circulation",
+     "items": [
+      {
+       "name": "Early Development",
+       "description": "heart beats by day 21 post-fertilization; circulation patterns established by the fourth week; circulation starts outside the embryo about 15–16 days after fertilization."
+      },
+      {
+       "name": "Vascular Development",
+       "description": "arises from embryonic mesoderm; hemangioblasts form angioblasts and stem cells; blood islands form tubes that connect to the heart."
+      },
+      {
+       "name": "Placenta",
+       "description": "facilitates nutrient and gas exchange in the growing embryo."
+      },
+      {
+       "name": "Umbilical Vein",
+       "description": "carries oxygenated blood from mother to fetus."
+      },
+      {
+       "name": "Umbilical Arteries",
+       "description": "transport depleted blood back to the placenta."
+      },
+      {
+       "name": "Three Fetal Shunts",
+       "description": "foramen ovale, ductus arteriosus, and ductus venosus. Foramen ovale: right atrium → left atrium · ductus arteriosus: pulmonary artery → aorta, away from the lungs · ductus venosus: shunts blood away from the liver toward the heart"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Module 5 · The Respiratory System",
+   "course": "PN Structure and Function of the Human Body · NRSG-10159",
+   "topics": "Structures · Airways · Lungs and Alveoli · Gas Exchange · Gas Transport · Breathing Mechanics · Control of Breathing",
+   "groups": [
+    {
+     "name": "Why We Breathe",
+     "items": [
+      {
+       "name": "Breathing Limit",
+       "description": "a typical human cannot survive without breathing for more than 3 minutes; the autonomic nervous system takes control if you hold your breath too long."
+      },
+      {
+       "name": "Cellular Respiration",
+       "description": "every cell needs to run the oxidative stages of cellular respiration, the process by which energy is produced in the form of ATP (adenosine triphosphate)."
+      },
+      {
+       "name": "Main Drive to Breathe",
+       "description": "although oxygen is a critical need for cells, it is the accumulation of carbon dioxide that primarily drives your need to breathe (a negative feedback system)."
+      },
+      {
+       "name": "O₂ Path",
+       "description": "atmosphere → airways → alveoli → pulmonary capillaries → blood → tissues → cells; CO₂ follows the same path back out."
+      },
+      {
+       "name": "Key Idea",
+       "description": "the lungs and blood work as a team: air movement + gas exchange + transport. Respiration keeps cells supplied with O₂ so they can make ATP."
+      }
+     ]
+    },
+    {
+     "name": "Structures and Functions of the Respiratory System",
+     "items": [
+      {
+       "name": "Major Respiratory Structures",
+       "description": "nasal cavity; pharynx and larynx; trachea and bronchi; lungs; diaphragm and intercostal muscles."
+      },
+      {
+       "name": "Primary Functions",
+       "description": "gas exchange (oxygen intake, carbon dioxide removal) and ventilation."
+      },
+      {
+       "name": "Secondary Functions",
+       "description": "regulation of blood pH, protection and filtration, sound production, olfaction (smell)."
+      }
+     ]
+    },
+    {
+     "name": "2 Zones of the Respiratory System",
+     "items": [
+      {
+       "name": "Conducting Zone",
+       "description": "warms, humidifies and filters air and transports it to the lungs. Nose and adjacent structures, pharynx, larynx, epiglottis, trachea, bronchial tree, terminal bronchiole"
+      },
+      {
+       "name": "Respiratory Zone",
+       "description": "begins with the respiratory bronchioles and includes alveolar ducts, sacs and alveoli for gas exchange with the blood. Site of gas exchange"
+      }
+     ]
+    },
+    {
+     "name": "Nasal Cavity and Paranasal Sinuses",
+     "items": [
+      {
+       "name": "Olfactory Receptors",
+       "description": "located in the mucosa on the superior surface of the nasal cavity."
+      },
+      {
+       "name": "Respiratory Mucosa",
+       "description": "lines the rest of the nasal cavity; moistens air and traps incoming foreign particles."
+      },
+      {
+       "name": "Conchae",
+       "description": "projections on the lateral walls of the nasal cavity; increase surface area and air turbulence."
+      },
+      {
+       "name": "Palate",
+       "description": "separates the nasal cavity from the oral cavity. Anterior hard palate (bone) · posterior soft palate (muscle)"
+      },
+      {
+       "name": "Paranasal Sinuses",
+       "description": "cavities within bones surrounding the nasal cavity: frontal, sphenoid, ethmoid, and maxillary bones."
+      },
+      {
+       "name": "Function of the Sinuses",
+       "description": "lighten the skull; act as resonance chambers for speech; produce mucus that drains into the nasal cavity."
+      }
+     ]
+    },
+    {
+     "name": "Pharynx (Throat) and Tonsils",
+     "items": [
+      {
+       "name": "Pharynx",
+       "description": "muscular passage from nasal cavity to larynx. The oropharynx and laryngopharynx are common passageways for air and food."
+      },
+      {
+       "name": "Nasopharynx",
+       "description": "superior region behind nasal cavity."
+      },
+      {
+       "name": "Oropharynx",
+       "description": "middle region behind mouth."
+      },
+      {
+       "name": "Laryngopharynx",
+       "description": "inferior region attached to larynx (also called hypopharynx)."
+      },
+      {
+       "name": "Tonsils",
+       "description": "part of the body's immune system; can stop germs entering through the mouth or nose; contain many white blood cells."
+      },
+      {
+       "name": "Pharyngeal Tonsil (Adenoids)",
+       "description": "in the nasopharynx."
+      },
+      {
+       "name": "Palatine Tonsils",
+       "description": "in the oropharynx."
+      },
+      {
+       "name": "Lingual Tonsils",
+       "description": "at the base of the tongue."
+      }
+     ]
+    },
+    {
+     "name": "Larynx (Voice Box) and Trachea (Windpipe)",
+     "items": [
+      {
+       "name": "Larynx",
+       "description": "routes air and food into proper channels; plays a role in speech. Made of eight rigid hyaline cartilages and a spoon-shaped flap of elastic cartilage (epiglottis)"
+      },
+      {
+       "name": "Thyroid Cartilage",
+       "description": "largest hyaline cartilage; protrudes anteriorly (Adam's apple)."
+      },
+      {
+       "name": "Epiglottis",
+       "description": "superior opening of the larynx; when you swallow, it covers the top of the larynx so food and fluid go into the esophagus."
+      },
+      {
+       "name": "Vocal Cords (Vocal Folds)",
+       "description": "vibrate with expelled air to create sound (speech)."
+      },
+      {
+       "name": "Glottis",
+       "description": "opening between vocal cords."
+      },
+      {
+       "name": "Trachea",
+       "description": "connects larynx with bronchi; walls are reinforced with C-shaped hyaline cartilage. Slide activity: palpate your throat to feel the tracheal cartilage."
+      },
+      {
+       "name": "Ciliated Mucosa (Trachea)",
+       "description": "cilia beat continuously in the opposite direction of incoming air, expelling mucus loaded with dust and other debris away from the lungs."
+      }
+     ]
+    },
+    {
+     "name": "Lungs and the Respiratory Tree",
+     "items": [
+      {
+       "name": "Lungs",
+       "description": "occupy most of the thoracic cavity."
+      },
+      {
+       "name": "Apex (Lung)",
+       "description": "near the clavicle (superior portion)."
+      },
+      {
+       "name": "Base (Lung)",
+       "description": "rests on the diaphragm (inferior portion)."
+      },
+      {
+       "name": "Lobes",
+       "description": "each lung is divided into lobes by fissures: left lung – two lobes; right lung – three lobes. Left lung has a cardiac notch for the heart."
+      },
+      {
+       "name": "Respiratory Tree Divisions",
+       "description": "primary (main) bronchi → secondary (lobar) bronchi → tertiary (segmental) bronchi → bronchioles → terminal bronchioles."
+      },
+      {
+       "name": "Terminal Bronchioles",
+       "description": "most distal segment of the conducting zone."
+      },
+      {
+       "name": "Bronchioles",
+       "description": "smallest branches of the bronchi."
+      },
+      {
+       "name": "Function of Bronchi and Alveoli",
+       "description": "to distribute air to the lung's interior."
+      }
+     ]
+    },
+    {
+     "name": "Respiratory Zone and Alveoli",
+     "items": [
+      {
+       "name": "Respiratory Zone Structures",
+       "description": "respiratory bronchioles, alveolar duct, alveoli; site of gas exchange."
+      },
+      {
+       "name": "Structure of Alveoli",
+       "description": "alveolar duct → alveolar sac → alveolus."
+      },
+      {
+       "name": "Alveoli",
+       "description": "tiny sacs in the lungs where gas is exchanged during breathing; about 150 million alveoli per lung."
+      },
+      {
+       "name": "Alveolar Wall",
+       "description": "simple squamous epithelial tissue; a single layer allows oxygen and carbon dioxide to pass quickly from alveoli to capillary."
+      },
+      {
+       "name": "Pulmonary Capillaries",
+       "description": "cover external surfaces of alveoli; allow gases to cross by simple diffusion. O₂ is picked up by the blood for transport; CO₂ is released into the air of the alveoli."
+      },
+      {
+       "name": "Respiratory Membrane (Air-Blood Barrier)",
+       "description": "alveolar epithelium + fused basement membranes + capillary endothelium; the barrier gases diffuse across."
+      },
+      {
+       "name": "Alveolar Pores (Pores of Kohn)",
+       "description": "openings between neighbouring alveoli (shown on diagram)."
+      },
+      {
+       "name": "Macrophages",
+       "description": "add protection in the alveoli."
+      }
+     ]
+    },
+    {
+     "name": "Surfactant",
+     "items": [
+      {
+       "name": "Surfactant",
+       "description": "a slippery coating made by type II alveolar cells; coats gas-exposed alveolar surfaces."
+      },
+      {
+       "name": "What It Does",
+       "description": "reduces surface tension so alveoli do not easily collapse (keeps alveoli from collapsing)."
+      },
+      {
+       "name": "Why It Matters",
+       "description": "makes inhalation easier and supports effective gas exchange. Without surfactant, breathing becomes much harder."
+      },
+      {
+       "name": "Clinical Connection",
+       "description": "premature infants may have low surfactant because their lungs are not fully mature."
+      }
+     ]
+    },
+    {
+     "name": "Pleura",
+     "items": [
+      {
+       "name": "Pulmonary (Visceral) Pleura",
+       "description": "covers the lung surface."
+      },
+      {
+       "name": "Parietal Pleura",
+       "description": "lines the walls of the thoracic cavity."
+      },
+      {
+       "name": "Pleural Fluid",
+       "description": "fills the area between layers of pleura (pleural cavity) to allow gliding."
+      }
+     ]
+    },
+    {
+     "name": "Ventilation and Perfusion",
+     "items": [
+      {
+       "name": "Ventilation (V)",
+       "description": "air reaches the alveoli. Example of ↓ ventilation: airway narrowed or blocked, such as during an asthma attack"
+      },
+      {
+       "name": "Perfusion (Q)",
+       "description": "blood reaches the alveoli. Example of ↓ perfusion: blood flow is reduced, such as with a pulmonary embolus"
+      }
+     ]
+    },
+    {
+     "name": "Events of Respiration",
+     "items": [
+      {
+       "name": "1. Pulmonary Ventilation",
+       "description": "moving air in and out of the lungs."
+      },
+      {
+       "name": "2. External Respiration",
+       "description": "gas exchange between pulmonary blood and alveoli (alveoli ↔ blood)."
+      },
+      {
+       "name": "3. Respiratory Gas Transport",
+       "description": "transport of oxygen and carbon dioxide via the bloodstream."
+      },
+      {
+       "name": "4. Internal Respiration",
+       "description": "gas exchange between blood and tissue cells in systemic capillaries (blood ↔ tissues)."
+      },
+      {
+       "name": "5. Cellular Respiration",
+       "description": "cells make ATP."
+      },
+      {
+       "name": "Clinical Language",
+       "description": "a patient can be moving air but still have poor gas exchange if alveoli, blood flow, or hemoglobin are impaired."
+      }
+     ]
+    },
+    {
+     "name": "Gas Exchange and Gas Transport",
+     "items": [
+      {
+       "name": "Gas Exchange",
+       "description": "gas crosses the respiratory membrane by diffusion: oxygen enters the blood; carbon dioxide enters the alveoli. Capillaries are located next to the alveoli to facilitate gas exchange between the respiratory and circulatory systems."
+      },
+      {
+       "name": "External Respiration (diagram)",
+       "description": "in the lungs, O₂ moves from the alveolus into the blood and binds hemoglobin; CO₂ is detached from hemoglobin, released from plasma, and converted back from bicarbonate, then moves into the alveolus."
+      },
+      {
+       "name": "Internal Respiration (diagram)",
+       "description": "in the tissues, O₂ is detached from hemoglobin and moves into tissue cells; CO₂ moves from tissue cells into the blood."
+      },
+      {
+       "name": "Oxygen Transport",
+       "description": "most oxygen travels attached to hemoglobin inside red blood cells (\"hemoglobin is the oxygen taxi\"). Infographic: hemoglobin carries about 98.5% of O₂; a small amount dissolves in plasma"
+      },
+      {
+       "name": "Carbon Dioxide Transport",
+       "description": "most CO₂ becomes bicarbonate (HCO₃⁻): cells produce CO₂ → blood carries it mainly as HCO₃⁻ → lungs convert it back → CO₂ exhaled. CO₂ + H₂O ↔ H₂CO₃ ↔ H⁺ + HCO₃⁻"
+      },
+      {
+       "name": "CO₂ and Blood pH",
+       "description": "when CO₂ rises, acid rises, which can lower pH; breathing helps regulate CO₂ and therefore blood pH."
+      }
+     ]
+    },
+    {
+     "name": "The Diaphragm and Why Air Moves",
+     "items": [
+      {
+       "name": "Diaphragm",
+       "description": "a thin dome-shaped muscle which separates the thoracic cavity (lungs and heart) from the abdominal cavity (intestines, stomach, liver, etc.)."
+      },
+      {
+       "name": "Diaphragm in Breathing",
+       "description": "draws downward on inhalation; pushes upward on exhalation."
+      },
+      {
+       "name": "Air Movement Rule",
+       "description": "air always moves from higher pressure to lower pressure."
+      },
+      {
+       "name": "Inhalation",
+       "description": "diaphragm contracts → thoracic volume ↑ → pressure in lungs ↓ → air flows INTO the lungs."
+      },
+      {
+       "name": "Exhalation",
+       "description": "diaphragm relaxes → thoracic volume ↓ → pressure in lungs ↑ → air flows OUT of the lungs."
+      }
+     ]
+    },
+    {
+     "name": "Respiratory Volumes",
+     "items": [
+      {
+       "name": "Tidal Volume (TV)",
+       "description": "air moved in and out during a normal, quiet breath; about 500 mL."
+      },
+      {
+       "name": "Inspiratory Reserve Volume (IRV)",
+       "description": "extra air you can breathe in after a normal inhalation (think: deep breath in). Graph value: 3100 mL"
+      },
+      {
+       "name": "Expiratory Reserve Volume (ERV)",
+       "description": "extra air you can force out after a normal exhalation (think: blow out as much as you can). Graph value: 1200 mL"
+      },
+      {
+       "name": "Residual Volume (RV)",
+       "description": "air that always remains in the lungs, even after breathing out as much as possible; helps keep the alveoli open. Graph value: 1200 mL"
+      }
+     ]
+    },
+    {
+     "name": "Respiratory Capacities",
+     "items": [
+      {
+       "name": "Total Lung Capacity (TLC)",
+       "description": "the total amount of air the lungs can hold after the deepest possible breath in; TV + IRV + ERV + RV. Graph value: 6000 mL"
+      },
+      {
+       "name": "Vital Capacity (VC)",
+       "description": "the maximum amount of air you can move in and out; TV + IRV + ERV; does not include residual volume. Graph value: 4800 mL"
+      },
+      {
+       "name": "Inspiratory Capacity (IC)",
+       "description": "the maximum amount of air you can breathe in after a normal exhalation; TV + IRV."
+      },
+      {
+       "name": "Functional Residual Capacity (FRC)",
+       "description": "the air remaining in the lungs after a normal exhalation; ERV + RV."
+      }
+     ]
+    },
+    {
+     "name": "Control of Breathing",
+     "items": [
+      {
+       "name": "Breathing Control Centers",
+       "description": "located in the pons and medulla of the brain."
+      },
+      {
+       "name": "Medulla",
+       "description": "contains the dorsal respiratory group (DRG) and ventral respiratory group (VRG); increases rate and depth of breathing when needed."
+      },
+      {
+       "name": "Pons (Pontine Respiratory Group)",
+       "description": "contains the pneumotaxic center and apneustic center."
+      },
+      {
+       "name": "Phrenic Nerves",
+       "description": "carry nerve impulses that trigger contraction of the diaphragm."
+      },
+      {
+       "name": "Intercostal Nerves",
+       "description": "carry nerve impulses to the intercostal muscles."
+      },
+      {
+       "name": "What Stimulates the Control Centers",
+       "description": "CO₂ increase in blood (acts directly) and nerve impulses from O₂ sensors indicating an O₂ decrease. O₂ sensor in artery (aortic arch)"
+      }
+     ]
+    },
+    {
+     "name": "Factors Influencing Respiratory Rate and Depth",
+     "items": [
+      {
+       "name": "Physical Factors",
+       "description": "increased body temperature, exercise, talking, coughing."
+      },
+      {
+       "name": "Volition",
+       "description": "conscious control."
+      },
+      {
+       "name": "Emotional Factors",
+       "description": "emotions can change breathing rate and depth."
+      },
+      {
+       "name": "Carbon Dioxide Levels (Chemical)",
+       "description": "the main regulatory chemical for respiration; increased CO₂ increases respiration; changes in CO₂ act directly on the medulla oblongata."
+      },
+      {
+       "name": "Oxygen Levels (Chemical)",
+       "description": "changes in oxygen are detected by chemoreceptors in the aorta and carotid artery; information is sent to the medulla oblongata."
+      }
+     ]
+    },
+    {
+     "name": "Negative Feedback Control of Breathing",
+     "items": [
+      {
+       "name": "Homeostatic Feedback Loop",
+       "description": "the regulation of ventilation is part of a homeostatic feedback loop."
+      },
+      {
+       "name": "Chemoreceptor Response",
+       "description": "increased CO₂ or decreased O₂ stimulates chemoreceptors, leading to faster and deeper breaths."
+      },
+      {
+       "name": "When CO₂ Falls",
+       "description": "ventilation slows to maintain balance."
+      },
+      {
+       "name": "Loop Steps",
+       "description": "CO₂ rises in blood → H⁺ rises, pH falls → chemoreceptors detect change → medulla increases rate/depth → more CO₂ is exhaled → CO₂ and pH move back toward normal."
+      },
+      {
+       "name": "Nursing Connection",
+       "description": "changes in respiratory rate can be the body trying to correct CO₂ and pH imbalance."
+      }
+     ]
+    },
+    {
+     "name": "Respiratory Response to Exercise",
+     "items": [
+      {
+       "name": "Muscles Work Harder",
+       "description": "skeletal muscles use more ATP, so they need more oxygen."
+      },
+      {
+       "name": "More CO₂ Is Produced",
+       "description": "active cells produce more carbon dioxide as a waste product."
+      },
+      {
+       "name": "Response",
+       "description": "respiratory rate and depth increase → more O₂ delivered, more CO₂ removed → homeostasis maintained."
+      },
+      {
+       "name": "Hyperpnea",
+       "description": "increased depth and rate of breathing; during exercise it is appropriate because it meets increased cellular demand."
+      }
+     ]
+    },
+    {
+     "name": "Before Birth to First Breath",
+     "items": [
+      {
+       "name": "Fetal Life",
+       "description": "lungs are fluid-filled; placenta handles gas exchange."
+      },
+      {
+       "name": "Late Pregnancy",
+       "description": "surfactant production increases as lungs mature."
+      },
+      {
+       "name": "Birth",
+       "description": "first breaths expand alveoli; fluid begins to clear."
+      },
+      {
+       "name": "After Birth",
+       "description": "pulmonary blood flow increases; lungs take over gas exchange."
+      },
+      {
+       "name": "Key Takeaway",
+       "description": "before birth, the placenta oxygenates blood; after birth, the lungs must inflate and exchange gases. Surfactant helps alveoli stay open after the first breaths."
+      }
+     ]
+    },
+    {
+     "name": "Nursing Terminology Related to Respiration",
+     "items": [
+      {
+       "name": "Apnea (Apnoeic Events)",
+       "description": "temporary stop in breathing."
+      },
+      {
+       "name": "Dyspnea",
+       "description": "difficult or laboured breathing."
+      },
+      {
+       "name": "Cyanosis / Cyanotic",
+       "description": "bluish colour of the skin or mucous membranes from low oxygen in the blood."
+      },
+      {
+       "name": "SOB",
+       "description": "shortness of breath."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
