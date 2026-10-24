@@ -29,6 +29,18 @@ Poppler (`winget install oschwartz10612.Poppler`). Then check nothing broke:
 node --test tests/quiz.test.mjs
 ```
 
+## Midterm Review
+
+[data/midterm.json](data/midterm.json) follows the teacher's midterm review guide: one group per topic in the guide.
+Most items are references to reviewer items, so their text comes straight from the PDFs:
+
+- `"2|Transport Within the Cell|Osmosis"` is one item (module number | group | name)
+- `"1|Homeostasis"` is a whole group
+
+Topics no reviewer covers (prefixes/suffixes, musculoskeletal, Circle of Willis, the body temperature example)
+are written out with `"written": true`, and the quiz labels them "not from your reviewer". If a re-import renames
+a group or item, the tests name the broken reference.
+
 ## How questions are built
 
 - One question per item: the description is the question, the names in its set are the choices (shuffled).

@@ -1,0 +1,296 @@
+{
+ "id": "midterm",
+ "title": "Midterm Review · Teacher's Review Guide",
+ "course": "PN Structure and Function of the Human Body · NRSG-10159",
+ "topics": "Foundations of A&P · Medical Terminology · Cells · Tissues · Blood · Cardiovascular System · Respiratory System · Musculoskeletal System",
+ "groups": [
+  {
+   "name": "Foundations of A&P · Anatomy & Physiology",
+   "items": ["1|Anatomy & Physiology"]
+  },
+  {
+   "name": "Foundations of A&P · Levels of organization",
+   "items": ["1|Levels of Organization (6 Levels, Increasing in Complexity)"]
+  },
+  {
+   "name": "Foundations of A&P · Homeostasis",
+   "items": [
+    "1|Homeostasis",
+    "1|Negative and Positive Feedback|Negative Feedback (Reverses)",
+    "1|Negative and Positive Feedback|Negative Feedback Loop Steps"
+   ]
+  },
+  {
+   "name": "Foundations of A&P · Homeostasis examples",
+   "items": [
+    "1|Negative and Positive Feedback|Negative Feedback Example (Blood Glucose)",
+    {
+     "name": "Negative Feedback Example (Body Temperature)",
+     "description": "body temperature rises above the set point (37°C) → thermoreceptors in the skin and brain detect the change → the hypothalamus (control center) signals the effectors → sweat glands release sweat and skin blood vessels dilate to release heat → temperature returns to the set point. When temperature drops, skin blood vessels constrict and shivering produces heat.",
+     "written": true
+    },
+    "1|Negative and Positive Feedback|Positive Feedback Examples"
+   ]
+  },
+  {
+   "name": "Medical Terminology · Prefixes",
+   "items": [
+    { "name": "Hyper-", "description": "above, excessive, or more than normal (e.g., blood pressure or blood glucose that is higher than normal).", "written": true },
+    { "name": "Hypo-", "description": "below, under, deficient, or less than normal (e.g., blood pressure or blood glucose that is lower than normal).", "written": true },
+    { "name": "Brady-", "description": "slow (e.g., a heart rate below 60 beats per minute).", "written": true },
+    { "name": "Tachy-", "description": "fast or rapid (e.g., a heart rate above 100 beats per minute).", "written": true },
+    { "name": "Endo-", "description": "within, inside, or inner (e.g., the inner lining of the heart, or glands that secrete hormones directly into the blood).", "written": true },
+    { "name": "Exo-", "description": "outside or outward (e.g., glands that release their secretions through ducts onto a surface, or a cell moving products out of the cell).", "written": true }
+   ]
+  },
+  {
+   "name": "Medical Terminology · Suffixes",
+   "items": [
+    { "name": "-itis", "description": "inflammation (e.g., inflammation of the appendix or of the tonsils).", "written": true },
+    { "name": "-ectomy", "description": "surgical removal or excision (e.g., removal of the appendix or of the tonsils).", "written": true },
+    { "name": "-ology", "description": "the study of (e.g., the study of cells or of tissues).", "written": true },
+    { "name": "-emia", "description": "a condition of the blood (e.g., too few red blood cells, or too much potassium in the blood).", "written": true },
+    { "name": "-cyte", "description": "cell (e.g., a red blood cell, a white blood cell, or a skin cell).", "written": true }
+   ]
+  },
+  {
+   "name": "Medical Terminology · Directional terms",
+   "items": ["1|Directional Terms (One Thing Relative to Another)"]
+  },
+  {
+   "name": "Cells · Organelles and cell membrane",
+   "items": [
+    "2|Cells and the Cell Membrane|Nucleus",
+    "2|Cytoplasmic Organelles|Ribosomes",
+    "2|Cytoplasmic Organelles|Rough ER (RER)",
+    "2|Cytoplasmic Organelles|Smooth ER (SER)",
+    "2|Cytoplasmic Organelles|Golgi Apparatus",
+    "2|Cytoplasmic Organelles|Mitochondria",
+    "2|Cytoplasmic Organelles|Lysosomes",
+    "2|Cells and the Cell Membrane|Cell Membrane"
+   ]
+  },
+  {
+   "name": "Cells · Cell transport",
+   "items": [
+    "2|Transport Within the Cell|Passive Transport",
+    "2|Transport Within the Cell|Diffusion",
+    "2|Transport Within the Cell|Osmosis",
+    "2|Transport Within the Cell|Filtration",
+    "2|Transport Within the Cell|Active Transport"
+   ]
+  },
+  {
+   "name": "Cells · Ions and their roles",
+   "items": [
+    "3|Sodium|Sodium",
+    "3|Potassium|Potassium (K+)",
+    "3|Calcium and Magnesium|Calcium",
+    "3|Calcium and Magnesium|Magnesium"
+   ]
+  },
+  {
+   "name": "Tissues · Epithelial tissue",
+   "items": ["2|1. Epithelial Tissue"]
+  },
+  {
+   "name": "Tissues · Connective tissue",
+   "items": ["2|2. Connective Tissue"]
+  },
+  {
+   "name": "Tissues · Muscle and nervous tissue",
+   "items": ["2|4. Muscle Tissue", "2|3. Nervous Tissue"]
+  },
+  {
+   "name": "Blood · Components",
+   "items": [
+    "3|Plasma: Extracellular Component of Blood|Plasma",
+    "3|Formed Elements and Hematopoiesis|Formed Elements",
+    "3|Erythrocytes (Red Blood Cells)|Erythrocytes",
+    "3|Leukocytes (White Blood Cells)|Leukocytes",
+    "3|Thrombocytes (Platelets)|Platelets"
+   ]
+  },
+  {
+   "name": "Blood · Hematopoiesis and red bone marrow",
+   "items": [
+    "3|Formed Elements and Hematopoiesis|Hemopoiesis / Hematopoiesis",
+    "3|Formed Elements and Hematopoiesis|Red Bone Marrow",
+    "3|Formed Elements and Hematopoiesis|Extramedullary Hemopoiesis",
+    "3|Formed Elements and Hematopoiesis|Hematopoietic Stem Cell (Hemocytoblast)",
+    "3|Formed Elements and Hematopoiesis|Hemopoietic Growth Factors",
+    "3|Formed Elements and Hematopoiesis|Erythropoietin (EPO)",
+    "3|Formed Elements and Hematopoiesis|Thrombopoietin",
+    "3|Formed Elements and Hematopoiesis|Cytokines"
+   ]
+  },
+  {
+   "name": "Blood · Granulocytes",
+   "items": [
+    "3|Leukocytes (White Blood Cells)|Granular Leukocytes",
+    "3|Leukocytes (White Blood Cells)|Neutrophils",
+    "3|Leukocytes (White Blood Cells)|Eosinophils",
+    "3|Leukocytes (White Blood Cells)|Basophils"
+   ]
+  },
+  {
+   "name": "Blood · Agranulocytes",
+   "items": [
+    "3|Leukocytes (White Blood Cells)|Agranular Leukocytes",
+    "3|Leukocytes (White Blood Cells)|Lymphocytes",
+    "3|Leukocytes (White Blood Cells)|Natural Killer Cells",
+    "3|Leukocytes (White Blood Cells)|B Cells",
+    "3|Leukocytes (White Blood Cells)|T Cells",
+    "3|Leukocytes (White Blood Cells)|Monocytes",
+    "3|Leukocytes (White Blood Cells)|Macrophages"
+   ]
+  },
+  {
+   "name": "Blood · Blood typing, antigens and antibodies",
+   "items": ["3|Blood Typing"]
+  },
+  {
+   "name": "Cardiovascular System · Components",
+   "items": ["3|Blood and the Cardiovascular System"]
+  },
+  {
+   "name": "Cardiovascular System · Heart chambers",
+   "items": [
+    "4|Chambers and Great Vessels|Atria",
+    "4|Chambers and Great Vessels|Ventricles",
+    "4|Chambers and Great Vessels|Right Atrium",
+    "4|Chambers and Great Vessels|Right Ventricle",
+    "4|Chambers and Great Vessels|Left Atrium",
+    "4|Chambers and Great Vessels|Left Ventricle"
+   ]
+  },
+  {
+   "name": "Cardiovascular System · Heart valves",
+   "items": ["4|Heart Valves"]
+  },
+  {
+   "name": "Cardiovascular System · Blood flow through the heart",
+   "items": ["4|Heart Circulation"]
+  },
+  {
+   "name": "Cardiovascular System · Systole and diastole",
+   "items": ["4|Cardiac Cycle"]
+  },
+  {
+   "name": "Cardiovascular System · Cardiac output",
+   "items": ["4|Cardiac Output"]
+  },
+  {
+   "name": "Cardiovascular System · Conduction system",
+   "items": ["4|Conduction System"]
+  },
+  {
+   "name": "Cardiovascular System · Major vessels",
+   "items": [
+    "4|Chambers and Great Vessels|Aorta",
+    "4|Chambers and Great Vessels|Vena Cava (superior and inferior)",
+    "4|Chambers and Great Vessels|Pulmonary Artery",
+    "4|Chambers and Great Vessels|Pulmonary Veins"
+   ]
+  },
+  {
+   "name": "Cardiovascular System · Pulse sites and assessment",
+   "items": ["4|Pulses"]
+  },
+  {
+   "name": "Cardiovascular System · Circle of Willis",
+   "items": [
+    "4|The Aorta and Its Branches|External Carotid Artery",
+    "4|The Aorta and Its Branches|Internal Carotid Artery",
+    "4|The Aorta and Its Branches|Blood Supply to the Brain",
+    {
+     "name": "Circle of Willis",
+     "description": "a ring of connected arteries at the base of the brain. Clinical significance: if one artery is blocked or narrowed, blood can be rerouted around the ring so the brain keeps its blood supply (collateral circulation); it is also a common site of brain (berry) aneurysms.",
+     "written": true
+    }
+   ]
+  },
+  {
+   "name": "Respiratory System · Nose",
+   "items": ["5|Nasal Cavity and Paranasal Sinuses"]
+  },
+  {
+   "name": "Respiratory System · Pharynx and tonsils",
+   "items": ["5|Pharynx (Throat) and Tonsils"]
+  },
+  {
+   "name": "Respiratory System · Larynx",
+   "items": [
+    "5|Larynx (Voice Box) and Trachea (Windpipe)|Larynx",
+    "5|Larynx (Voice Box) and Trachea (Windpipe)|Thyroid Cartilage",
+    "5|Larynx (Voice Box) and Trachea (Windpipe)|Epiglottis",
+    "5|Larynx (Voice Box) and Trachea (Windpipe)|Vocal Cords (Vocal Folds)",
+    "5|Larynx (Voice Box) and Trachea (Windpipe)|Glottis"
+   ]
+  },
+  {
+   "name": "Respiratory System · Lower respiratory tract and airflow",
+   "items": [
+    "5|Larynx (Voice Box) and Trachea (Windpipe)|Trachea",
+    "5|Larynx (Voice Box) and Trachea (Windpipe)|Ciliated Mucosa (Trachea)",
+    "5|Lungs and the Respiratory Tree"
+   ]
+  },
+  {
+   "name": "Respiratory System · Alveoli, ducts, sacs and pores",
+   "items": ["5|Respiratory Zone and Alveoli"]
+  },
+  {
+   "name": "Respiratory System · Gas exchange",
+   "items": ["5|Gas Exchange and Gas Transport"]
+  },
+  {
+   "name": "Respiratory System · Pleura",
+   "items": ["5|Pleura"]
+  },
+  {
+   "name": "Respiratory System · Mechanism of breathing",
+   "items": ["5|The Diaphragm and Why Air Moves"]
+  },
+  {
+   "name": "Respiratory System · Events of respiration",
+   "items": [
+    "5|Events of Respiration|1. Pulmonary Ventilation",
+    "5|Events of Respiration|2. External Respiration",
+    "5|Events of Respiration|3. Respiratory Gas Transport",
+    "5|Events of Respiration|4. Internal Respiration",
+    "5|Events of Respiration|5. Cellular Respiration"
+   ]
+  },
+  {
+   "name": "Musculoskeletal System · Functions of bone",
+   "items": [
+    { "name": "Support", "description": "bones form the framework of the body; they hold the body up, give it shape, and support soft tissues and organs.", "written": true },
+    { "name": "Protection", "description": "bones shield internal organs from injury (e.g., the skull around the brain, the rib cage around the heart and lungs, the vertebrae around the spinal cord).", "written": true },
+    { "name": "Movement", "description": "bones act as levers; skeletal muscles attached to bones by tendons pull on them to move the body (works with the muscular system).", "written": true },
+    { "name": "Mineral Storage", "description": "bone stores calcium and phosphorus and releases them into the blood when needed to keep mineral levels balanced.", "written": true },
+    { "name": "Blood Cell Production", "description": "red bone marrow inside bones makes red blood cells, white blood cells and platelets (hematopoiesis).", "written": true }
+   ]
+  },
+  {
+   "name": "Musculoskeletal System · Bone structures",
+   "items": [
+    { "name": "Diaphysis", "description": "the long, tube-shaped shaft of a long bone; made of thick compact bone surrounding the medullary cavity.", "written": true },
+    { "name": "Epiphysis", "description": "the wider end of a long bone (proximal and distal); filled with spongy bone and covered with articular cartilage where it forms a joint.", "written": true },
+    { "name": "Metaphysis", "description": "the region between the shaft and the end of a long bone; contains the epiphyseal (growth) plate in growing bones, which becomes the epiphyseal line in adults.", "written": true },
+    { "name": "Periosteum", "description": "tough fibrous membrane covering the outer surface of bone (except at joint surfaces); contains blood vessels and nerves, anchors tendons and ligaments, and helps bone grow in width and heal.", "written": true },
+    { "name": "Endosteum", "description": "thin membrane lining the inner surfaces of bone, including the medullary cavity; contains cells that build and break down bone during growth, repair and remodeling.", "written": true },
+    { "name": "Medullary Cavity", "description": "the hollow space inside the shaft of a long bone; holds yellow bone marrow in adults (red marrow in children).", "written": true }
+   ]
+  },
+  {
+   "name": "Musculoskeletal System · Compact vs spongy bone, red vs yellow marrow",
+   "items": [
+    { "name": "Compact Bone", "description": "dense, solid bone that forms the outer layer of all bones and the shaft of long bones; made of tightly packed osteons (Haversian systems); gives strength and support.", "written": true },
+    { "name": "Spongy Bone", "description": "also called cancellous bone; lighter bone made of a lattice of thin plates (trabeculae) with spaces that hold red bone marrow; found in the ends of long bones and inside flat bones.", "written": true },
+    { "name": "Red Marrow", "description": "blood-forming (hematopoietic) tissue that makes red blood cells, white blood cells and platelets; in adults found mainly in the spongy bone of flat bones (sternum, ribs, hip bones, vertebrae, skull) and the ends of long bones.", "written": true },
+    { "name": "Yellow Marrow", "description": "mostly fat (adipose tissue) that stores energy; fills the medullary cavity of long bones in adults; can turn back into blood-forming marrow if the body needs more blood cells (e.g., after severe blood loss).", "written": true }
+   ]
+  }
+ ]
+}

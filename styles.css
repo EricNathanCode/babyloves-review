@@ -49,6 +49,8 @@ h1, h2, .eyebrow, .btn, .pill, .letter, .big, .group { font-family: Fredoka, Nun
   background: var(--blue-s); color: var(--blue-d); font-weight: 600; font-size: .85rem;
 }
 .module h2 { margin: 0; font-size: 1.35rem; font-weight: 600; line-height: 1.25; }
+.midterm { grid-column: 1 / -1; border-color: var(--blue-m); background: linear-gradient(135deg, #fff 55%, var(--blue-s)); }
+.midterm .eyebrow { background: var(--blue); color: #fff; }
 .topics { margin: 0; color: var(--muted); font-size: .88rem; flex: 1; }
 .meter { height: 10px; border-radius: 999px; background: var(--blue-s); overflow: hidden; }
 .meter span { display: block; height: 100%; border-radius: inherit; background: linear-gradient(90deg, #7fb2ff, var(--blue)); transition: width .4s; }
@@ -81,6 +83,7 @@ h1, h2, .eyebrow, .btn, .pill, .letter, .big, .group { font-family: Fredoka, Nun
   border-bottom: 2px solid var(--line); color: var(--blue-d); font-weight: 600;
 }
 .desc { margin: 0 0 20px; font-size: 1.12rem; font-weight: 700; line-height: 1.55; }
+.written { margin: 0 0 10px; padding: 6px 12px; border-radius: 12px; background: #fff6e5; color: #8a5a00; font-size: .85rem; font-weight: 700; }
 .choices { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 .choice {
   display: flex; align-items: center; gap: 12px; min-height: 58px; padding: 10px 14px;

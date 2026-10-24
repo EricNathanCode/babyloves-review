@@ -1,4 +1,4 @@
-import { questionsFor, shuffle } from './quiz.js';
+import { questionsFor, resolveModule, shuffle } from './quiz.js';
 import { CORGI } from './corgi.js';
 import * as store from './progress.js';
 
@@ -10,11 +10,11 @@ const ASK = ['Which one is it? 🤔', 'You know this one!', 'Take your time 💙
 const CHEERS = ['Yay! You got it, Babyloves! 💙', 'Woof woof! Correct! 🐾', 'So smart! Keep going!', 'Correct! Future nurse right here 💙', 'Perfect! I’m so proud of you!'];
 const COMFORT = ['It’s okay, you got this! 💙', 'Almost! You’ll get it next time 🐾', 'No worries, Babyloves. Keep going!'];
 
-const data = await fetch('data/modules.json').then((r) => r.json());
-const modules = data.modules.map((m) => {
+const [data, midterm] = await Promise.all(['data/modules.json', 'data/midterm.json'].map((f) => fetch(f).then((r) => r.json())));
+const modules = [resolveModule(midterm, data.modules), ...data.modules].map((m) => {
   const [name, sub] = m.title.split(' · ');
   const questions = questionsFor(m);
-  return { ...m, id: name.match(/\d+/)[0], name, sub, questions, byKey: new Map(questions.map((q) => [q.key, q])) };
+  return { ...m, id: m.id ?? name.match(/\d+/)[0], name, sub, questions, byKey: new Map(questions.map((q) => [q.key, q])) };
 });
 
 let lastResult = null;
@@ -26,7 +26,7 @@ function home() {
     <header class="hero">
       <h1>Babyloves Review</h1>
       <p class="hello">Study Well, Babyloves 💙</p>
-      <p class="course">${esc(modules[0]?.course ?? '')}</p>
+      <p class="course">${esc(data.modules[0]?.course ?? '')}</p>
     </header>
     <section class="modules">${modules.map(moduleCard).join('')}</section>`;
 }
@@ -39,8 +39,8 @@ function moduleCard(m) {
   const tries = p.attempts.length;
   const s = p.session;
   return `
-    <article class="card module">
-      <p class="eyebrow">${esc(m.name)}</p>
+    <article class="card module${m.id === 'midterm' ? ' midterm' : ''}">
+      <p class="eyebrow">${esc(m.name)}${m.id === 'midterm' ? ' ⭐' : ''}</p>
       <h2>${esc(m.sub)}</h2>
       <p class="topics">${esc(m.topics)}</p>
       <div class="meter" role="img" aria-label="${mastered} of ${total} mastered"><span style="width:${(100 * mastered) / total}%"></span></div>
@@ -75,6 +75,7 @@ function quiz(m) {
       <div class="stage">
         <article class="card question">
           <p class="group">${esc(q.group)}</p>
+          ${q.written ? '<p class="written">✍️ Extra item, not from your reviewer. Double-check it with your notes.</p>' : ''}
           <p class="desc">${esc(q.description)}</p>
           <div class="choices">
             ${choices.map((c, i) => `<button class="choice" data-i="${i}"><span class="letter">${LETTERS[i]}</span><span>${esc(c)}</span></button>`).join('')}
@@ -159,7 +160,7 @@ function results(r) {
 }
 
 function route() {
-  const [, id, done] = location.hash.match(/^#\/m\/(\d+)(\/done)?$/) ?? [];
+  const [, id, done] = location.hash.match(/^#\/m\/([\w-]+)(\/done)?$/) ?? [];
   const m = modules.find((x) => x.id === id);
   if (!m) home();
   else if (done) lastResult?.id === id ? results(lastResult) : home();

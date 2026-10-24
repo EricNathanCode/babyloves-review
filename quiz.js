@@ -9,6 +9,23 @@ export function splitSizes(n) {
   return [...Array((n - 3 * threes) / 4).fill(4), ...Array(threes).fill(3)];
 }
 
+// The midterm module points at reviewer items ("2|Transport Within the Cell|Osmosis", or a whole group "1|Homeostasis")
+// so their text always comes straight from the PDFs. Items written for topics no reviewer covers carry written: true.
+export function resolveModule(spec, modules) {
+  const groups = spec.groups.map((g) => ({
+    name: g.name,
+    items: g.items.flatMap((ref) => {
+      if (typeof ref !== 'string') return [ref];
+      const [num, group, name] = ref.split('|');
+      const source = modules.find((m) => m.title.match(/\d+/)?.[0] === num)?.groups.find((x) => x.name === group);
+      const items = name ? source?.items.filter((i) => i.name === name) : source?.items;
+      if (!items?.length) throw new Error(`Midterm item not found in the reviewers: ${ref}`);
+      return items;
+    }),
+  }));
+  return { ...spec, groups };
+}
+
 export function questionsFor(module) {
   const questions = [];
   for (const group of module.groups) {
@@ -22,6 +39,7 @@ export function questionsFor(module) {
           description: item.description,
           answer: item.name,
           choices: set.map((i) => i.name),
+          written: !!item.written,
         });
       }
     }
